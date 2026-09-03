@@ -3,7 +3,7 @@
 This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.
 
 KPIs are used to identify and measure key metrics of a business. The different visualizations of KPI tiles help users quickly evaluate the performance of their business towards a goal, from the Fiori Launchpad itself.
-[image](../exercises/ex2/images/KPI tiles on FLP.png)
+![KPI Tiles FLP](images/KPI_Tiles_FLP.png)   
 
 The goal of this exercise is to:
 - [Create a KPI from Manage KPIs and Reports](#create-kpi)
@@ -16,7 +16,7 @@ The goal of this exercise is to:
 
 ## Create KPI
 1. Go to the **Analytics** Page in Fiori Launchpad. Under **KPI Design** group, launch the **Manage KPIs and Reports** application.
-![image](exercises/ex2/images/KPI tiles on FLP.png)
+![Manage KPI Reports](images/Manage_KPI_Reports_app_tile.png)   
 2. A list of Groups will be displayed. Click on **Create**.
 3. Enter title for the Group ‘TM_262_XXX Group’.(_XXX should be replaced with your group number for eg for place number 25 it is 025_)
 4. Click on **Save and Activate**.
