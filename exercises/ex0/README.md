@@ -15,4 +15,4 @@ This exercise demonstrates how SAP Document AI reduces manual data entry for Bus
 ## Summary
 By the end of this exercise, you will have created a Business Partner using SAP Document AI with fields extracted and pre-populated from an uploaded document and ready for review and confirmation.
 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Continue to - [Exercise 2: Thumbnail support for product attachments in the Product Master](../ex1/README.md)
