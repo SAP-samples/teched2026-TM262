@@ -118,40 +118,28 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
    </table>
 
 ## Exercises: links and general information
-|  |  |
+| Exercise | Objective |
 | ------------- | -- |
-| [Exercise 0: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex0/) | This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.   |
+| [Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex0/) | This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.   |
 > - <small>S/4HANA Cloud Public Edition 2608.1.
 > - Requires setup mentioned in [Scope item 7TC](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608/SolP/7TC?region=DE). 
 > - SAP BTP global account with entitlements for SAP Document AI service [Subscribe SAP Document AI] (https://help.sap.com/docs/document-ai/sap-document-ai/subscribing-to-sap-document-ai-workspace-with-identity-authentication-service).
 > - SSO for the users if SAP S/4HANA Cloud Public Edition and BAIP have different IAS tenant. 
 > - All the users who will use the application needs to be maintained in Document AI application in IAS and with minimum role DocumentEditor / DocumentUser role  - see further [Autorization Policies] (https://help.sap.com/docs/document-ai/sap-document-ai/authorization-policies-workspace).</small>    
 
-|  |  |
+| Exercise | Objective |
 | ------------- | -- |
-| [Exercise 1: Thumbnail support for product attachments in the Product Master](exercises/ex1/) | This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making attachment management more intuitive across large product catalogues.   |
+| [Thumbnail support for product attachments in the Product Master](exercises/ex1/) | This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making attachment management more intuitive across large product catalogues.   |
 > - <small>SAP S/4HANA Cloud Public Edition 2608.
 > - Harmonized Document Management Configuration Activity ID 500008.
 > - S/4HANA Cloud Public Edition connected to CMIS repository and the repository connected to the S/4 system must support thumbnails (automatically works as it is SAP Managed Integration).</small> 
 
 | Exercise | Objective |
 | ------------- | -- |
-| [Ex2: AI-assisted text summaries for SAP Smart Business KPIs and reports](exercises/ex2/) | This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.   |
+| [AI-assisted text summaries for SAP Smart Business KPIs and reports](exercises/ex2/) | This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.   |
 > - <small>SAP S/4HANA Cloud Public Edition 2608. 
 > - EU/US data center.
 > - System Administrator must approve the AI terms and conditions based on [SAP note 3651017](https://me.sap.com/notes/3651017/E)- this not specific to this use case,relevant for other AI use cases also.</small> 
-
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
 
 Let's go to [Exercise 0: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex0/)
 
