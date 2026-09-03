@@ -19,7 +19,7 @@ The session showcases the latest 2608 product innovations that accelerate implem
 The three exercises are independent and cover AI-assisted master data onboarding, visual product master enhancements, and AI-generated analytics summaries. Each exercise includes a brief capability overview, guided steps, and links to relevant documentation and demos.
 
 ## Session Overview
-- [Session Overview](#session-overview)
+[session Overview](
     - [Create Business Partner with SAP Document AI](#master-data-ai-assisted-document-extraction-for-simplified-business-partner-master-data-maintenance)
     - [Thumbnail support for Product master data](#thumbnail-support-for-product-attachments-in-the-product-master)
     - [AI-assisted text summaries for SAP Smart Business KPIs and reports](#ai-assisted-text-summaries-for-sap-smart-business-kpis-and-reports)
