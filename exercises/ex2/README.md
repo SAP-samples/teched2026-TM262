@@ -16,8 +16,7 @@ The goal of this exercise is to -
 
 ## Create KPI
 1. Go to the **Analytics** Page in Fiori Launchpad. Under **KPI Design** group, launch the **Manage KPIs and Reports** application.
-![image](../TM262_Git/Images/ex3_kpi_report_summary_images/Manage%20KPIs%20and%20Reports%20app%20tile.png?d=wbe7c1b3e978f4d9faa57d4d4796e9c3f&csf=1&web=1&e=1Wuyib)
-
+![image](exercises/ex2/images/KPI tiles on FLP.png)
 2. A list of Groups will be displayed. Click on **Create**.
 3. Enter title for the Group ‘TM_262_XXX Group’.(_XXX should be replaced with your group number for eg for place number 25 it is 025_)
 4. Click on **Save and Activate**.
