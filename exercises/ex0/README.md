@@ -1,26 +1,18 @@
-# Level 1 Heading
+[TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP ](../README.md)
+# Exercise 1: Master data AI-assisted document extraction for simplified business partner master data maintenance
+This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.
 
-In this exercise, you will...
+**Exercise:** {⚠️**PLEASE INSERT STEPS, LINKS, IMAGES, etc DOWN FROM HERE, except 1>> DELETE THIS ONE YOU ARE DONE**}
 
-## Level 2 Heading
+1. Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.
+[Systems and Logon Information](../README.md#system-and-logon-information)
 
-After completing these steps you will have....
+2. Insert your instructions ...
+><small>Note: insert any note if required ....</small>
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
 
 ## Summary
+By the end of this exercise, you will have created a Business Partner using SAP Document AI with fields extracted and pre-populated from an uploaded document and ready for review and confirmation.
 
-Now that you have ... 
 Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
