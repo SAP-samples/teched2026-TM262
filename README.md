@@ -46,7 +46,7 @@ The AI is trained against a BP-specific extraction schema, so it understands the
 - Built-in compliance - every Business Partner record optionally retains its originating document as an attachment
 - No new infrastructure - runs within the existing S/4HANA + BAIP landscape
 
-<img width="1101" height="612" alt="image" src="https://github.com/user-attachments/assets/9aa961fa-3366-41d3-ae4f-55401c01f3f8" />
+[Business Partner_SAP Document AI](/exercises/images%20_main/BusinessPartner.png)
 
 ## Thumbnail support for product attachments in the Product Master 
 [Release 2608]
@@ -64,8 +64,8 @@ The visual-first attachment experience
 - Speeds up product master data maintenance
 - Provides a more intuitive and consistent way to manage product documents.
 
-<img width="1275" height="673" alt="image" src="https://github.com/user-attachments/assets/d7ff6c18-bead-485c-90d0-4a4bd683794f" />
-<img width="1272" height="669" alt="image" src="https://github.com/user-attachments/assets/7618f429-2d2d-4cbe-ad16-2a793802d066" />
+[Produt Thumbnail](/exercises/images%20_main/Product_Thumbnail_1.png)
+[Produt Thumbnail - HDM](/exercises/images%20_main/Product_Thumbnail_2.png)
 
 **Additional information**
 - [Manage Product Master Data Thumbnails](https://help.sap.com/docs/SAP_S4HANA_CLOUD/f86dc2eb1f8b48c880a7607213104b27/f693b5c57a47445eb65bfd0212835ee0.html?q=thumbnail)
@@ -89,7 +89,7 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 - Helps users gain quick, shareable insights into the current situation of their KPIs
 - Directly integrated into SAP Fiori apps with minimal configuration required
 
-<img width="1086" height="617" alt="image" src="https://github.com/user-attachments/assets/4ce91d2f-ab13-43cb-9d57-498bcd81fc80" />
+[Smart KPI's and Reports](/exercises/images%20_main/KPI_Reports.png)
 
 **Additional information**
 - [AI-assisted KPI and Report Summary](https://help.sap.com/docs/SAP_S4HANA_CLOUD/a630d57fc5004c6383e7a81efee7a8bb/64914acdda42402a908e312befe56dda.html?version=2608.500&ai=true)
@@ -120,7 +120,7 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 ## Exercises: links and general information
 | Exercise | Objective |
 | ------------- | -- |
-| [Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex0/) | This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.   |
+| [Ex1:Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex1/) | This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.   |
 > - <small>S/4HANA Cloud Public Edition 2608.1.
 > - Requires setup mentioned in [Scope item 7TC](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608/SolP/7TC?region=DE). 
 > - SAP BTP global account with entitlements for SAP Document AI service [Subscribe SAP Document AI] (https://help.sap.com/docs/document-ai/sap-document-ai/subscribing-to-sap-document-ai-workspace-with-identity-authentication-service).
@@ -129,19 +129,19 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 
 | Exercise | Objective |
 | ------------- | -- |
-| [Thumbnail support for product attachments in the Product Master](exercises/ex1/) | This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making attachment management more intuitive across large product catalogues.   |
+| [Ex2:Thumbnail support for product attachments in the Product Master](exercises/ex2/) | This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making attachment management more intuitive across large product catalogues.   |
 > - <small>SAP S/4HANA Cloud Public Edition 2608.
 > - Harmonized Document Management Configuration Activity ID 500008.
 > - S/4HANA Cloud Public Edition connected to CMIS repository and the repository connected to the S/4 system must support thumbnails (automatically works as it is SAP Managed Integration).</small> 
 
 | Exercise | Objective |
 | ------------- | -- |
-| [AI-assisted text summaries for SAP Smart Business KPIs and reports](exercises/ex2/) | This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.   |
+| [Ex3:AI-assisted text summaries for SAP Smart Business KPIs and reports](exercises/ex3/) | This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.   |
 > - <small>SAP S/4HANA Cloud Public Edition 2608. 
 > - EU/US data center.
 > - System Administrator must approve the AI terms and conditions based on [SAP note 3651017](https://me.sap.com/notes/3651017/E)- this not specific to this use case,relevant for other AI use cases also.</small> 
 
-Let's go to [Exercise 0: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex0/)
+Let's go to [Exercise 1: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex1/)
 
 **IMPORTANT**
 
