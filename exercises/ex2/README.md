@@ -3,9 +3,9 @@
 This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.
 
 KPIs are used to identify and measure key metrics of a business. The different visualizations of KPI tiles help users quickly evaluate the performance of their business towards a goal, from the Fiori Launchpad itself.
-![image](../TM262_Git/Images/ex3_kpi_report_summary_images/KPI%20tiles%20on%20FLP.png)
+[image](../exercises/ex2/images/KPI tiles on FLP.png)
 
-The goal of this exercise is to - 
+The goal of this exercise is to:
 - [Create a KPI from Manage KPIs and Reports](#create-kpi)
 - [Create a generic drilldown report](#create-generic-drilldown-report)
 - [Publish a tile and launch report application](#publish-tile-and-launch-report-application)
