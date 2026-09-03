@@ -128,7 +128,7 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 > - All the users who will use the application needs to be maintained in Document AI application in IAS and with minimum role DocumentEditor / DocumentUser role  - see further [Autorization Policies] (https://help.sap.com/docs/document-ai/sap-document-ai/authorization-policies-workspace).</small>    
 
 |  |  |
-| ------------- | -- |
+| ------------- |
 | [Exercise 1: Thumbnail support for product attachments in the Product Master](exercises/ex1/) | This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making attachment management more intuitive across large product catalogues.   |
 > - <small>SAP S/4HANA Cloud Public Edition 2608.
 > - Harmonized Document Management Configuration Activity ID 500008.
@@ -137,9 +137,9 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 |  |  |
 | ------------- | -- |
 | [Exercise 2: AI-assisted text summaries for SAP Smart Business KPIs and reports](exercises/ex2/) | This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.   |
-> - <small>SAP S/4HANA Cloud Public Edition 2608.</small> 
-> - <small>EU/US data center.</small> 
-> - <small>System Administrator must approve the AI terms and conditions based on [SAP note 3651017](https://me.sap.com/notes/3651017/E)- this not specific to this use case,relevant for other AI use cases also.</small> 
+> - <small>SAP S/4HANA Cloud Public Edition 2608. 
+> - EU/US data center.
+> - System Administrator must approve the AI terms and conditions based on [SAP note 3651017](https://me.sap.com/notes/3651017/E)- this not specific to this use case,relevant for other AI use cases also.</small> 
 
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
