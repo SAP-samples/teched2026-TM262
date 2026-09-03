@@ -48,7 +48,7 @@ The AI is trained against a BP-specific extraction schema, so it understands the
 - Built-in compliance - every Business Partner record optionally retains its originating document as an attachment
 - No new infrastructure - runs within the existing S/4HANA + BAIP landscape
 
-[Business Partner_SAP Document AI](/exercises/images%20_main/BusinessPartner.png)
+![Business Partner_SAP Document AI](/exercises/images%20_main/BusinessPartner.png)
 
 ## Thumbnail support for product attachments in the Product Master 
 [Release 2608]
@@ -68,8 +68,8 @@ The visual-first attachment experience
 - Speeds up product master data maintenance
 - Provides a more intuitive and consistent way to manage product documents.
 
-[Produt Thumbnail](/exercises/images%20_main/Product_Thumbnail_1.png)
-[Produt Thumbnail - HDM](/exercises/images%20_main/Product_Thumbnail_2.png)
+![Produt Thumbnail](/exercises/images%20_main/Product_Thumbnail_1.png)
+![Produt Thumbnail - HDM](/exercises/images%20_main/Product_Thumbnail_2.png)
 
 **Additional information**
 - [Manage Product Master Data Thumbnails](https://help.sap.com/docs/SAP_S4HANA_CLOUD/f86dc2eb1f8b48c880a7607213104b27/f693b5c57a47445eb65bfd0212835ee0.html?q=thumbnail)
@@ -95,7 +95,7 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 - Helps users gain quick, shareable insights into the current situation of their KPIs
 - Directly integrated into SAP Fiori apps with minimal configuration required
 
-[Smart KPI's and Reports](/exercises/images%20_main/KPI_Reports.png)
+![Smart KPI's and Reports](/exercises/images%20_main/KPI_Reports.png)
 
 **Additional information**
 - [AI-assisted KPI and Report Summary](https://help.sap.com/docs/SAP_S4HANA_CLOUD/a630d57fc5004c6383e7a81efee7a8bb/64914acdda42402a908e312befe56dda.html?version=2608.500&ai=true)
