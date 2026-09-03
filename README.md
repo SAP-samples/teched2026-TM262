@@ -24,7 +24,7 @@ The three exercises are independent and cover AI-assisted master data onboarding
      - [Thumbnail support for Product master data](thumbnail-support-for-product-attachments-in-the-product-master)
      - [AI-assisted text summaries for SAP Smart Business KPIs and reports](ai-assisted-text-summaries-for-sap-smart-business-kpis-and-reports)
   - [System and Logon Information](system-and-logon-information)
-  - [Exercises: links and general information](#exercises-links-and-general-information)
+  - [Exercises: links and general information](exercises-links-and-general-information)
 
 ## Master data AI-assisted document extraction for simplified business partner master data maintenance 
 [Release 2608.1]
@@ -65,7 +65,7 @@ The visual-first attachment experience
 - Provides a more intuitive and consistent way to manage product documents.
 
 <img width="1275" height="673" alt="image" src="https://github.com/user-attachments/assets/d7ff6c18-bead-485c-90d0-4a4bd683794f" />
-<img width="1284" height="679" alt="image" src="https://github.com/user-attachments/assets/da55b420-7bb5-4cf1-9f08-0121235376cd" />
+<img width="1272" height="669" alt="image" src="https://github.com/user-attachments/assets/7618f429-2d2d-4cbe-ad16-2a793802d066" />
 
 **Additional information**
 - [Manage Product Master Data Thumbnails](https://help.sap.com/docs/SAP_S4HANA_CLOUD/f86dc2eb1f8b48c880a7607213104b27/f693b5c57a47445eb65bfd0212835ee0.html?q=thumbnail)
@@ -98,8 +98,7 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 
 ## System and Logon information 
 
-{⚠️**NEEDS UPDATES!!>> PLEASE DELETE AFTER INSTRUCTION COMPLETE}
-
+{⚠️**NEEDS UPDATES!!>> PLEASE DELETE THIS LINE AFTER INSTRUCTION COMPLETE}
 <table>
   <tr>
     <th>Key</th>
@@ -118,7 +117,30 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
     <td><b>will be provided by your instructors</b>
    </table>
 
-## Exercises
+## Exercises: links and general information
+|  |  |
+| ------------- | -- |
+| [Exercise 0: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex0/) | This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.   |
+> - <small>S/4HANA Cloud Public Edition 2608.1.
+> - Requires setup mentioned in [Scope item 7TC](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608/SolP/7TC?region=DE). 
+> - SAP BTP global account with entitlements for SAP Document AI service [Subscribe SAP Document AI] (https://help.sap.com/docs/document-ai/sap-document-ai/subscribing-to-sap-document-ai-workspace-with-identity-authentication-service).
+> - SSO for the users if SAP S/4HANA Cloud Public Edition and BAIP have different IAS tenant. 
+> - All the users who will use the application needs to be maintained in Document AI application in IAS and with minimum role DocumentEditor / DocumentUser role  - see further [Autorization Policies] (https://help.sap.com/docs/document-ai/sap-document-ai/authorization-policies-workspace).</small>    
+
+|  |  |
+| ------------- | -- |
+| [Exercise 1: Thumbnail support for product attachments in the Product Master](exercises/ex1/) | This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making attachment management more intuitive across large product catalogues.   |
+> - <small>SAP S/4HANA Cloud Public Edition 2608.
+> - Harmonized Document Management Configuration Activity ID 500008.
+> - S/4HANA Cloud Public Edition connected to CMIS repository and the repository connected to the S/4 system must support thumbnails (automatically works as it is SAP Managed Integration).</small> 
+
+|  |  |
+| ------------- | -- |
+| [Exercise 2: AI-assisted text summaries for SAP Smart Business KPIs and reports](exercises/ex2/) | This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.   |
+> - <small>SAP S/4HANA Cloud Public Edition 2608.
+> - EU/US data center.
+> - System Administrator must approve the AI terms and conditions based on [SAP note 3651017](https://me.sap.com/notes/3651017/E)- this not specific to this use case,relevant for other AI use cases also.</small> 
+
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
@@ -130,10 +152,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-  
-**OR** Link to the Tutorial Navigator for example...
 
-Let's go to [Exercise 1: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex1/)
+Let's go to [Exercise 0: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex1/)
 
 **IMPORTANT**
 
