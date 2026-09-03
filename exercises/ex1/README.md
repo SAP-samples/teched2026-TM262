@@ -4,10 +4,10 @@ This exercise shows how thumbnail previews facilitate faster product identificat
 
 **Exercise:** {⚠️**PLEASE INSERT STEPS, LINKS, IMAGES, etc DOWN FROM HERE, except 1>> DELETE THIS ONE YOU ARE DONE**}
 
-1. Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.
-[Systems and Logon Information](README.md#system-and-logon-information)
+> **Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.**
+[Systems and Logon Information](../TM262_Git/TM262_README.md#system-and-logon-information)
 
-2. Insert your instructions ...
+1. Insert your instructions ...
 ><small>Note: insert any note if required ....</small>
 
 
