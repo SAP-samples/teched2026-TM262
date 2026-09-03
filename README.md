@@ -118,6 +118,7 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
    </table>
 
 ## Exercises: links and general information
+|  |  |
 | ------------- | -- |
 | [Exercise 0: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex0/) | This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.   |
 > - <small>S/4HANA Cloud Public Edition 2608.1.
@@ -126,13 +127,14 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 > - SSO for the users if SAP S/4HANA Cloud Public Edition and BAIP have different IAS tenant. 
 > - All the users who will use the application needs to be maintained in Document AI application in IAS and with minimum role DocumentEditor / DocumentUser role  - see further [Autorization Policies] (https://help.sap.com/docs/document-ai/sap-document-ai/authorization-policies-workspace).</small>    
 
+|  |  |
 | ------------- | -- |
 | [Exercise 1: Thumbnail support for product attachments in the Product Master](exercises/ex1/) | This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making attachment management more intuitive across large product catalogues.   |
 > - <small>SAP S/4HANA Cloud Public Edition 2608.
 > - Harmonized Document Management Configuration Activity ID 500008.
 > - S/4HANA Cloud Public Edition connected to CMIS repository and the repository connected to the S/4 system must support thumbnails (automatically works as it is SAP Managed Integration).</small> 
 
-| ------------- | -- |
+|  |  |
 | [Exercise 2: AI-assisted text summaries for SAP Smart Business KPIs and reports](exercises/ex2/) | This exercise demonstrates how AI-generated text summaries facilitate faster insight from Smart Business KPIs, enabling analysts to grasp and share the current situation without manually reviewing multiple views.   |
 > - <small>SAP S/4HANA Cloud Public Edition 2608.
 > - EU/US data center.
