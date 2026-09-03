@@ -18,7 +18,13 @@ This repository contains materials for the SAP TechEd 2026 session TM262 Experie
 The session showcases the latest 2608 product innovations that accelerate implementation, reduce manual effort, and enhance the day-to-day user experience
 The three exercises are independent and cover AI-assisted master data onboarding, visual product master enhancements, and AI-generated analytics summaries. Each exercise includes a brief capability overview, guided steps, and links to relevant documentation and demos.
 
-## Overview
+## Session Overview
+- [Session Overview](#session-overview)
+    - [Create Business Partner with SAP Document AI](#master-data-ai-assisted-document-extraction-for-simplified-business-partner-master-data-maintenance)
+    - [Thumbnail support for Product master data](#thumbnail-support-for-product-attachments-in-the-product-master)
+    - [AI-assisted text summaries for SAP Smart Business KPIs and reports](#ai-assisted-text-summaries-for-sap-smart-business-kpis-and-reports)
+  - [System and Logon Information](#system-and-logon-information)
+  - [Exercises: links and general information](#exercises-links-and-general-information)
 
 ## Master data AI-assisted document extraction for simplified business partner master data maintenance 
 [Release 2608.1]
@@ -29,7 +35,7 @@ Creating a new Business Partner in SAP today is a manual, field-by-field data en
 
 **How it works**
 
-Along with manual transcription, provide additional capability with a single, guided document upload and confirmation step within the existing SAP Fiori UI - no new infrastructure required. The feature is powered by SAP Document AI, an AI service running on SAP BTP.
+Along with manual transcription, provide additional capability with a single, guided document upload and confirmation step within the existing SAP Fiori UI - no new infrastructure required. The feature is powered by SAP Document AI, an AI service running on SAP BAIP.
 When a document is uploaded, the system:
 1.	Sends the document to SAP Document AI for intelligent extraction
 2.	Identifies and pulls out BP fields such as name, address, tax numbers, and more
@@ -41,7 +47,9 @@ The AI is trained against a BP-specific extraction schema, so it understands the
 - Higher data quality - errors caught at the source, not discovered downstream
 - Faster onboarding - minutes of manual entry replaced by upload-and-confirm flow
 - Built-in compliance - every Business Partner record optionally retains its originating document as an attachment
-- No new infrastructure - runs within the existing S/4HANA + BTP landscape
+- No new infrastructure - runs within the existing S/4HANA + BAIP landscape
+
+<img width="1101" height="612" alt="image" src="https://github.com/user-attachments/assets/9aa961fa-3366-41d3-ae4f-55401c01f3f8" />
 
 ## Thumbnail support for product attachments in the Product Master 
 [Release 2608]
@@ -62,6 +70,15 @@ The visual-first attachment experience
 - Speeds up product master data maintenance
 - Provides a more intuitive and consistent way to manage product documents.
 
+<img width="1275" height="673" alt="image" src="https://github.com/user-attachments/assets/d7ff6c18-bead-485c-90d0-4a4bd683794f" />
+<img width="1284" height="679" alt="image" src="https://github.com/user-attachments/assets/da55b420-7bb5-4cf1-9f08-0121235376cd" />
+
+**Additional information**
+- [Manage Product Master Data Thumbnails](https://help.sap.com/docs/SAP_S4HANA_CLOUD/f86dc2eb1f8b48c880a7607213104b27/f693b5c57a47445eb65bfd0212835ee0.html?q=thumbnail)
+- [Harmonized Document Management - MaintainThumbnails](https://help.sap.com/docs/SAP_S4HANA_CLOUD/f86dc2eb1f8b48c880a7607213104b27/f693b5c57a47445eb65bfd0212835ee0.html?q=thumbnail)
+- [2608 Early Release Series - Cross Technology topics](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/register-now-for-the-2608-early-release-series/ba-p/14399772)
+><small>Please select Cross Technology topics. An active SAP Learning Hub license is required to consume Early Release Series recordings.</small>
+
 ## AI-assisted text summaries for SAP Smart Business KPIs and reports
 [Release 2608]
 
@@ -80,6 +97,13 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 
 - Helps users gain quick, shareable insights into the current situation of their KPIs
 - Directly integrated into SAP Fiori apps with minimal configuration required
+
+<img width="1086" height="617" alt="image" src="https://github.com/user-attachments/assets/4ce91d2f-ab13-43cb-9d57-498bcd81fc80" />
+
+**Additional information**
+- [AI-assisted KPI and Report Summary](https://help.sap.com/docs/SAP_S4HANA_CLOUD/a630d57fc5004c6383e7a81efee7a8bb/64914acdda42402a908e312befe56dda.html?version=2608.500&ai=true)
+- [2608 Early Release Series - Cross Technology topics](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/register-now-for-the-2608-early-release-series/ba-p/14399772)
+><small>Please select Cross Technology topics. An active SAP Learning Hub license is required to consume Early Release Series recordings.</small>
 
 ## Requirements
 
