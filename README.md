@@ -30,9 +30,11 @@ The three exercises are independent and cover AI-assisted master data onboarding
 [Release 2608.1]
 
 **What problem it solves**
+
 Creating a new Business Partner in SAP today is a manual, field-by-field data entry task. A data steward takes a paper or digital document - a registration certificate, invoice, or contract - and manually types each value into SAP Fiori. This transcription-heavy process introduces avoidable errors, leaves no audit trail, and cannot scale as onboarding volumes grow. 
 
 **How it works**
+
 Along with manual transcription, provide additional capability with a single, guided document upload and confirmation step within the existing SAP Fiori UI - no new infrastructure required. The feature is powered by SAP Document AI, an AI service running on SAP BAIP.
 When a document is uploaded, the system:
 1.	Sends the document to SAP Document AI for intelligent extraction
@@ -52,6 +54,7 @@ The AI is trained against a BP-specific extraction schema, so it understands the
 [Release 2608]
 
 **What problem it solves**
+
 Product attachments in the Manage Product Master Data app display as file names, requiring users to open each document to identify it. With large product catalogues, this slows down data maintenance and increases navigation effort.   
 
 **How it works**
@@ -59,6 +62,7 @@ Product attachments in the Manage Product Master Data app display as file names,
 - Through integration with Harmonized Document Management (HDM) users can visually identify the product at a glance
 
 **Benefits**
+
 The visual-first attachment experience 
 - Reduces navigation effort
 - Speeds up product master data maintenance
@@ -77,9 +81,11 @@ The visual-first attachment experience
 [Release 2608]
 
 **What problem it solves**
+
 Analysts reviewing Smart Business KPIs must read through several views manually to get a picture of the current situation - time-consuming and hard to share quickly.   
 
 **How it works**
+
 AI generates textual summaries for Smart Business KPIs and reports for either an entire report or an individual view.
 - Report Summary: Generates a consolidated summary across all views in the report.
 - View Summary: Generates a summary for a selected view within the report.
