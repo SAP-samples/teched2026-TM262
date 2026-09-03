@@ -96,9 +96,27 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 - [2608 Early Release Series - Cross Technology topics](https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/register-now-for-the-2608-early-release-series/ba-p/14399772)
 ><small>Please select Cross Technology topics. An active SAP Learning Hub license is required to consume Early Release Series recordings.</small>
 
-## Requirements
+## System and Logon information 
 
-The requirements to follow the exercises in this repository are...
+{⚠️**NEEDS UPDATES!!>> PLEASE DELETE AFTER INSTRUCTION COMPLETE}
+
+<table>
+  <tr>
+    <th>Key</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>S/4HANA Cloud Public Edition System - <b>SID?????</b> -</td>
+    <td><b>will be provided by your instructors</b>
+  </tr>
+  <tr>
+    <td>User</td>
+    <td>TM262-?????????????????????</td>
+  </tr>
+  <tr>
+    <td>Password</td>
+    <td><b>will be provided by your instructors</b>
+   </table>
 
 ## Exercises
 
@@ -115,7 +133,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
   
 **OR** Link to the Tutorial Navigator for example...
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+Let's go to [Exercise 1: Master data AI-assisted document extraction for simplified business partner master data maintenance](exercises/ex1/)
 
 **IMPORTANT**
 
