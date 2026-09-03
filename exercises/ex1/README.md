@@ -15,5 +15,5 @@ This exercise shows how thumbnail previews facilitate faster product identificat
 
 By the end of this exercise, you will have experienced how thumbnail previews facilitate faster product identification directly within the Manage Product Master Data application.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 3: AI-assisted text summaries for SAP Smart Business KPIs and reports](../ex2/README.md)
 
