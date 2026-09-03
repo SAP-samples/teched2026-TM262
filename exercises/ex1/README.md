@@ -1,3 +1,4 @@
+[TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP](../../../../#exercises)
 # Exercise 1 - Exercise 1 Description
 
 In this exercise, we will create...
