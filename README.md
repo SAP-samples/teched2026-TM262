@@ -24,7 +24,7 @@ The three exercises are independent and cover AI-assisted master data onboarding
      - [Thumbnail support for Product master data](thumbnail-support-for-product-attachments-in-the-product-master)
      - [AI-assisted text summaries for SAP Smart Business KPIs and reports](ai-assisted-text-summaries-for-sap-smart-business-kpis-and-reports)
   - [System and Logon Information](system-and-logon-information)
-  - [Exercises: links and general information](exercises-links-and-general-information)
+  - [Exercises: links and general information](exercises-links-and-general-information) 
 
 ## Master data AI-assisted document extraction for simplified business partner master data maintenance 
 [Release 2608.1]
