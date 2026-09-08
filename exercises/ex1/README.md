@@ -1,5 +1,5 @@
 [TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP](../../../../#exercises)
-# Exercise 1: Master data AI-assisted document extraction for simplified business partner master data maintenance
+# Exercise 1: Master data AI-assisted document extraction for simplified Business Partner master data maintenance
 This exercise demonstrates how SAP Document AI reduces manual data entry for Business Partner onboarding: upload a document, let AI extract, pre-populate the fields, and confirm.
 
 **Exercise:** {⚠️**PLEASE INSERT STEPS, LINKS, IMAGES, etc DOWN FROM HERE, except 1>> DELETE THIS ONE YOU ARE DONE**}
