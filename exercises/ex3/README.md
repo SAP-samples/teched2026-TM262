@@ -167,10 +167,25 @@ Your custom analytical query is now ready for consumption in Smart Business KPIs
 5. Click on **Save and Publish**.
 You will be navigated to the **Custom Catalog Extensions** app. This enables you to make an application available on the SAP Fiori Launchpad by assigning it to the required business catalogs and publishing it.
 
-6. Click on **Add** and search for the catalog ‘**SAP_CATALOG_TO_BE_DECIDED**’.
+6. Click on **Add** and search for the catalog ‘**SAP_MM_BC_PUR_ANALYTICS_PC**’.
+<p align="center">
+<img src="images/add_button_catalog.png" alt="Add catalog to publish tile" width="80%">
+</p>
+
 7. Select the Catalog and click on **OK**.
-8. Click on **Publish**.
+<p align="center">
+<img src="images/purchasing_analytics_catalog.png" alt="Purchasing analytics catalog" width="80%">
+</p>
+
+8. Select the checkbox beside the business catalog name, and click on **Publish**.
+<p align="center">
+<img src="images/publish_cce.png" alt="Publish app to catalog" width="80%">
+</p>
+
 9. When the status changes from ‘Publishing’ to ‘Published’, your tile is ready for use.
+<p align="center">
+<img src="images/app_published.png" alt="Status changed to Published" width="80%">
+</p>
 
 #### Accessing the application from Fiori Launchpad
 
