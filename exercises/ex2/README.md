@@ -25,6 +25,31 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 3. Note which document type has the highest priority (position 001) — this will be the one the system selects as the product thumbnail when multiple attachments exist.
 > **What you are checking: The priority order determines which attachment is shown as the thumbnail. If multiple images are attached, the system picks the one with the highest-ranked document type.**
 
+**Step 3 — Open Manage Product Master Data App (F1602) (Participant Action)**
+1. Open the Manage Product Master Data app (Fiori App ID: F1602).
+2. Search for and open an existing product, or use the product assigned to you by the instructor.
+3. Navigate to the Attachments section of the product.
+4. In the Attachments section, click Upload or Add Attachment.
+5. Select an image file from your local machine and upload
+6. Save the product record.
+><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
+
+**Step 4 — Observe Thumbnail Behavior (Observation / Result)**
+After uploading, check the following:
+
+Scenario A — Single document attached:
+
+1. Navigate back to the product list or the product header.
+2. Confirm that the uploaded image is displayed as the product thumbnail in both:
+   - The Manage Product Master Data app
+   - The Product App
+
+Scenario B — Multiple documents attached:
+
+1. If you uploaded more than one image, go back to Step 2 (Configuration) and check the document-type priority sequence.
+2. Confirm that the system displays the attachment with the highest-priority document type as the thumbnail.
+3. This is indicated by the "Yes – Multiple docs" branch in the exercise flow.
+
 
 1. Insert your instructions ...
 ><small>Note: insert any note if required ....</small>
