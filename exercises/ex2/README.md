@@ -50,6 +50,18 @@ Scenario B — Multiple documents attached:
 2. Confirm that the system displays the attachment with the highest-priority document type as the thumbnail.
 3. This is indicated by the "Yes – Multiple docs" branch in the exercise flow.
 
+### Summary
+
+| Step | Action | Type |
+| :--- | :--- | :--- |
+| 1 | Verify HDM for Product is active (ID: 105346) | Pre-configured |
+| 2 | Review Document-Type priority sequence | Pre-configured |
+| 3 | Open Manage Product Master Data (F1602) | Participant Action |
+| 4 | Upload JPG / PNG / PDF in Attachments | Participant Action |
+| 5 | Observe thumbnail in app (single or multi-doc) | Observation |
+| 6 | Optional - Remove top-priority image; verify fallback thumbnail | Participant Action + Observation |
+
+
 
 1. Insert your instructions ...
 ><small>Note: insert any note if required ....</small>
