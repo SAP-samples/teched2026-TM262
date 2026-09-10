@@ -20,7 +20,7 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 > **What you are checking: HDM must be active for the thumbnail feature to function. This step confirms your system is ready.**
 
 **Step 2 — Review Document-Type Sequence (Priority Order) (Pre-configured / Read-only)**
-1. Within the Activate HDM for Attachment Object Type configuration (ID: 105346), locate the Maintain Thumbnail Section for Document-Type Sequence.
+1. Within the Activate HDM for Attachment Object Type configuration (ID: 105346), locate the **Maintain Thumbnail** Section for Document-Type Sequence.
 2. Review the ordered list of document types (e.g., JPG, PNG, PDF).
 3. Note which document type has the highest priority (position 001) — this will be the one the system selects as the product thumbnail when multiple attachments exist.
 > **What you are checking: The priority order determines which attachment is shown as the thumbnail. If multiple images are attached, the system picks the one with the highest-ranked document type.**
@@ -39,7 +39,7 @@ After uploading, check the following:
 
 Scenario A — Single document attached:
 
-1. Navigate back to the product list or the product header.
+1. Navigate back to the product header or object page.
 2. Confirm that the uploaded image is displayed as the product thumbnail in both:
    - The Manage Product Master Data app
    - The Product App
