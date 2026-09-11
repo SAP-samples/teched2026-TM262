@@ -253,6 +253,7 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 5. You can enhance the *Document* view to display more fields. Click on the *Settings* icon on the table toolbar, and add **Material Group** to the selected fields. Click on **OK**.
 <p align="center">
 <img src="images/doc_personalize.png" alt="Personalize view" width="40%">
+&nbsp;&nbsp;
 <img src="images/material_group.png" alt="Add Plant" width="40%">
 </p>
 
