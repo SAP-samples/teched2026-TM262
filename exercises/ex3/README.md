@@ -193,7 +193,7 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 
 2. Click on the user menu on the top-right corner, and select App Finder.
 <p align="center">
-<img src="images/app_finder.png" alt="App Finder" width="60%">
+<img src="images/app_finder.png" alt="App Finder" width="80%">
 </p>
 
 3. Search for your newly created app using the title provided by you in previous steps. Click on the **+** icon. 
@@ -203,12 +203,12 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 
 4. Select the **Overview** page under **Purchasing**. Click on OK. This will add your newly created tile to the Overview page under the Purchasing space in Fiori Launchpad.
 <p align="center">
-<img src="images/add_tile_to_purchasing.png" alt="Add app to Purchasing page" width="60%">
+<img src="images/add_tile_to_purchasing.png" alt="Add app to Purchasing page" width="80%">
 </p>
 
 5. Go back to the Home page. Select the **Purchasing** tab and click on **Overview**.
 <p align="center">
-<img src="images/flp_overview.png" alt="Overview page in FLP" width="60%">
+<img src="images/flp_overview.png" alt="Overview page in FLP" width="80%">
 </p>
 
 6. Your newly created application will be available under the Overview page.
@@ -217,9 +217,56 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 </p>
 
 7. Click on this tile to launch your Generic Drilldown Report.
+<p align="center">
+<img src="images/launch_ssb_app.png" alt="Report launched" width="80%">
+</p>
 
 ## Generate AI-assisted summaries for the report
-1. To be filled...
+1. The report opens with the first view 'By Supplier' selected by default. Select the dropdown and switch to the 'Document' view to see the tabular data visualization.
+<p align="center">
+<img src="images/switch_to_doc_view.png" alt="Switch to document view" width="80%">
+</p>
+
+2. Click on the **Summarize** button available on the top to see the available options - **Summarize Report** and **Summarize View**. 
+
+> [!Note]
+> **Report Summary**: This feature lets you to generate a comprehensive summary of all the views configured 
+> in a report. The AI analyzes all measures and dimensions across all views to create a single consolidated 
+> summary.
+>
+> **View Summary**: This feature lets you to generate a summary for a specific view within that report.
+
+<p align="center">
+<img src="images/summarize_dropdown.png" alt="Summarize options" width="80%">
+</p>
+
+3. Click on the **Summarize View** option to generate a textual summary for the *Document* view. The side panel will get expanded where the view summary will be displayed.
+<p align="center">
+<img src="images/generating_view_summary.png" alt="Generating view summary" width="80%">
+</p>
+
+4. Scroll through the generated summary to read the different sections - Key Insights, Highlights, Analysis and Actions. 
+<p align="center">
+<img src="images/generated_view_summary.png" alt="Generated view summary" width="80%">
+</p>
+
+5. Now we will apply some filters and generate the summary for the entire report.
+Switch back to the *Supplier* view from the dropdown. Click on the *Add filter* icon on top.
+<p align="center">
+<img src="images/add_supplier_filter.png" alt="Add filter" width="80%">
+</p>
+
+6. Search for field 'Supplier' and select **Supplier**.
+<p align="center">
+<img src="images/add_supplier_filter.png" alt="Add filter supplier" width="80%">
+</p>
+
+7. Select any 2-3 suppliers from the value help list. Click on OK.
+<p align="center">
+<img src="images/suppliers_selected.png" alt="Add filter supplier" width="80%">
+</p>
+
+
 
 
 ## Summary
