@@ -193,7 +193,7 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 
 2. Click on the user menu on the top-right corner, and select App Finder.
 <p align="center">
-<img src="images/app_finder.png" alt="App Finder" width="80%">
+<img src="images/app_finder.png" alt="App Finder" width="60%">
 </p>
 
 3. Search for your newly created app using the title provided by you in previous steps. Click on the **+** icon. 
@@ -203,12 +203,12 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 
 4. Select the **Overview** page under **Purchasing**. Click on OK. This will add your newly created tile to the Overview page under the Purchasing space in Fiori Launchpad.
 <p align="center">
-<img src="images/add_tile_to_purchasing.png" alt="Add app to Purchasing page" width="80%">
+<img src="images/add_tile_to_purchasing.png" alt="Add app to Purchasing page" width="60%">
 </p>
 
 5. Go back to the Home page. Select the **Purchasing** tab and click on **Overview**.
 <p align="center">
-<img src="images/flp_overview.png" alt="Overview page in FLP" width="80%">
+<img src="images/flp_overview.png" alt="Overview page in FLP" width="60%">
 </p>
 
 6. Your newly created application will be available under the Overview page.
