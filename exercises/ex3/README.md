@@ -189,15 +189,34 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 
 #### Accessing the application from Fiori Launchpad
 
-1. Launch https://tobedecided.s4hana.cloud.sap/ui in a new tab in your browser.  
+1. Launch https://tobedecided.s4hana.cloud.sap/ui in a new tab in your browser.
 
-2. From the Home page, navigate to the ‘**To be decided**’ section under **To be decided**.
-3. Go to the User settings icon on the top-right and click on **Edit Current Page**. 
-4. Click on **Add tile**.
-5. Search the title of your newly created application in the search bar. The search result will show your tile.
-6. Click on the **add** icon.
-7. Exit edit mode and go back to the To Be Decided page.
-8. Click on the added Fiori Launchpad tile to launch your Generic Drilldown Report.
+2. Click on the user menu on the top-right corner, and select App Finder.
+<p align="center">
+<img src="images/app_finder.png" alt="App Finder" width="80%">
+</p>
+
+3. Search for your newly created app using the title provided by you in previous steps. Click on the **+** icon. 
+<p align="center">
+<img src="images/search_app.png" alt="Search application" width="80%">
+</p>
+
+4. Select the **Overview** page under **Purchasing**. Click on OK. This will add your newly created tile to the Overview page under the Purchasing space in Fiori Launchpad.
+<p align="center">
+<img src="images/add_tile_to_purchasing.png" alt="Add app to Purchasing page" width="80%">
+</p>
+
+5. Go back to the Home page. Select the **Purchasing** tab and click on **Overview**.
+<p align="center">
+<img src="images/flp_overview.png" alt="Overview page in FLP" width="80%">
+</p>
+
+6. Your newly created application will be available under the Overview page.
+<p align="center">
+<img src="images/flp_app.png" alt="App available in FLP" width="80%">
+</p>
+
+7. Click on this tile to launch your Generic Drilldown Report.
 
 ## Generate AI-assisted summaries for the report
 1. To be filled...
