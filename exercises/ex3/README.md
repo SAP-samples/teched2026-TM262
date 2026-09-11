@@ -250,22 +250,48 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 <img src="images/generated_view_summary.png" alt="Generated view summary" width="80%">
 </p>
 
-5. Now we will apply some filters and generate the summary for the entire report.
+5. You can enhance the *Document* view to display more fields. Click on the *Settings* icon on the table toolbar, and add **Material Group** to the selected fields. Click on **OK**.
+<p align="center">
+<img src="images/doc_personalize.png" alt="Personalize view" width="40%">
+<img src="images/material_group.png" alt="Add Plant" width="40%">
+</p>
+
+6. Click on the **Refresh** icon on the toolbar of the summary panel. This will generate a summary of the *Document* view with the updated context of Material Group's data.
+<p align="center">
+<img src="images/refresh_icon.png" alt="Refresh summary" width="80%">
+</p>
+
+7. Now we will apply some filters and generate a summary for the entire report.
 Switch back to the *Supplier* view from the dropdown. Click on the *Add filter* icon on top.
 <p align="center">
 <img src="images/add_supplier_filter.png" alt="Add filter" width="80%">
 </p>
 
-6. Search for field 'Supplier' and select **Supplier**.
+8. Search for field 'Supplier' and select **Supplier**.
 <p align="center">
-<img src="images/add_supplier_filter.png" alt="Add filter supplier" width="80%">
+<img src="images/filter_by_supplier.png" alt="Add filter supplier" width="80%">
 </p>
 
-7. Select any 2-3 suppliers from the value help list. Click on OK.
+9. Select any 2-3 suppliers from the value help list. Click on OK.
 <p align="center">
 <img src="images/suppliers_selected.png" alt="Add filter supplier" width="80%">
 </p>
 
+10. On the side panel, select the first icon with tooltip *Report summary*. Click on **Summarize Report**.
+Alternatively, you can select the **Summarize Report** option under the *Summarize* dropdown on top.  
+<p align="center">
+<img src="images/tab_report_summary.png" alt="Switch to Report summary" width="80%">
+</p>
+
+11. During this execution, the AI feature will consider both the *Supplier* and *Document* views, along with the context of the filtered suppliers to generate a fresh summary.
+<p align="center">
+<img src="images/generated_report_summary.png" alt="Switch to Report summary" width="80%">
+</p>
+
+12. Finally you can use the share button which opens your email client and keeps the summary copied into your clipboard, so you can directly paste it in the email template for quick sharing.
+<p align="center">
+<img src="images/share_summary.png" alt="Share summary in email" width="80%">
+</p>
 
 
 
