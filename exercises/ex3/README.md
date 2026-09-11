@@ -218,7 +218,7 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 
 7. Click on this tile to launch your Generic Drilldown Report.
 <p align="center">
-<img src="images/launch_ssb_app.png" alt="Report launched" width="80%">
+<img src="images/ssb_app_launch.png" alt="Report launched" width="80%">
 </p>
 
 ## Generate AI-assisted summaries for the report
