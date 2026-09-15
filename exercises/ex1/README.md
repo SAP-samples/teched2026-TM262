@@ -25,7 +25,7 @@ The goal of this exercise is to:
 
 1. Log in to the SAP Fiori Launchpad and navigate to the **Manage Business Partner** application.
 
-2. On the list page, locate the toolbar above the **Business Partners** table. You will see two creation buttons: the standard **Create** button and a new **Create from Document** button (marked with a document AI icon).
+2. On the list page, locate the toolbar above the **Business Partners** table. You will see two creation buttons: the standard **Create** button and a new **Create from Document** button (marked with an AI icon).
 
    > The **Create from Document** button is only visible if your system has been configured with the SAP Document AI subscription for Business Partners.
 
