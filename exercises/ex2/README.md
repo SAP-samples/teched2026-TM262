@@ -20,7 +20,9 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
    <img width="1087" height="415" alt="image" src="https://github.com/user-attachments/assets/a801b1c3-3408-4901-8340-ce0af52a35e4" />
 
 
-4. Search for **Configuration ID: 105346 — Activate HDM for Attachment Object Type** or Follow the path: R&D / Engineering > Project Control and Product Development > Product Development Foundation > Activate HDM for Attachment Object Type
+4. Search for **Configuration ID: 105346 — Activate HDM for Attachment Object Type**  or
+   
+   Follow the path: **R&D / Engineering > Project Control and Product Development > Product Development Foundation > Activate HDM** for Attachment Object Type
    <img width="2515" height="306" alt="image" src="https://github.com/user-attachments/assets/034c4b41-0ba0-4f47-9f3a-48d445a503c4" />
    <img width="2502" height="654" alt="image" src="https://github.com/user-attachments/assets/cc6d3eee-d6e8-4748-a812-64ebf4512741" />
 
@@ -104,12 +106,6 @@ Scenario B — Multiple documents attached:
 | 4 | Upload JPG / PNG / PDF in Attachments | Participant Action |
 | 5 | Observe thumbnail in app (single or multi-doc) | Observation |
 | 6 | Optional - Remove top-priority image; verify fallback thumbnail | Participant Action + Observation |
-
-
-
-1. Insert your instructions ...
-><small>Note: insert any note if required ....</small>
-
 
 ## Summary
 
