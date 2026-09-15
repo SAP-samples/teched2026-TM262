@@ -47,7 +47,7 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 **Step 4 — Upload a Product Image (Participant Action)**
 1. In the Attachments section, choose Select Document Type to Upload.
-2. Select a document type from the dropdown — use one of the types you noted in Step 2.
+2. Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*)
 3. Choose Upload and browse to a local image file (JPG, PNG, or PDF)
 4. Confirm the upload completes successfully.
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
