@@ -16,9 +16,19 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
    - Username:
    - Password:
 2. Navigate to **Business Process Configuration > Manage Your Solution > Configure Your Solution**.
-3. Search for **Configuration ID: 105346 — Activate HDM for Attachment Object Type** or Follow the path: R&D / Engineering > Project Control and Product Development > Product Development Foundation > Activate HDM for Attachment Object Type
-4. Choose **Configure** for the **Activate HDM for Attachment Object Type** configuration step.
-5. Verify that the HDM is Set to **Active** for **Product** object type.
+   <img width="1002" height="399" alt="image" src="https://github.com/user-attachments/assets/1179efe8-a3fe-4176-9139-0545c0cce981" />
+   <img width="1087" height="415" alt="image" src="https://github.com/user-attachments/assets/a801b1c3-3408-4901-8340-ce0af52a35e4" />
+
+
+4. Search for **Configuration ID: 105346 — Activate HDM for Attachment Object Type** or Follow the path: R&D / Engineering > Project Control and Product Development > Product Development Foundation > Activate HDM for Attachment Object Type
+   <img width="2515" height="306" alt="image" src="https://github.com/user-attachments/assets/034c4b41-0ba0-4f47-9f3a-48d445a503c4" />
+   <img width="2502" height="654" alt="image" src="https://github.com/user-attachments/assets/cc6d3eee-d6e8-4748-a812-64ebf4512741" />
+
+6. Choose **Configure** for the **Activate HDM for Attachment Object Type** configuration step.
+   
+8. Verify that the HDM is Set to **Active** for **Product** object type.
+   <img width="900" height="654" alt="image" src="https://github.com/user-attachments/assets/b27b93a3-ea86-4903-bab9-79daa3c55d00" />
+
 > [!NOTE]
 > **No changes are required — this is pre-configured for the exercise environment.**
 
@@ -31,7 +41,10 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 Thumbnails are displayed based on a priority ranking defined per document type and file extension. The system selects the attachment with the highest-priority document type as the thumbnail.
 
 1. Within the **Activate HDM for Attachment Object Type configuration (ID: 105346)**, Select the **Product** object type and open **Maintain Thumbnail** within the HDM configuration.
-2. Review the list of document types and their assigned thumbnail sequence (e.g., JPG, PNG, PDF).
+   <img width="816" height="527" alt="image" src="https://github.com/user-attachments/assets/3f3e0f27-5343-4c36-94b8-88861c5ca598" />
+2. Review the list of document types and their assigned thumbnail sequence (e.g., JPG, PNG).
+   <img width="1067" height="394" alt="image" src="https://github.com/user-attachments/assets/c4fdbaea-240f-4eb7-8992-42e3889e9222" />
+
 > [!NOTE]
 > **Note which document type has the highest priority (position 001) — this will be the one the system selects as the product thumbnail when multiple attachments exist.**
 
@@ -51,14 +64,15 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 **Step 4 — Upload a Product Image (Participant Action)**
 1. Select **EDIT** button on the top right corner
-   <img width="2510" height="400" alt="image" src="https://github.com/user-attachments/assets/ae98d661-7291-4d71-bbf4-de1162dc06e6" />
+   <img width="2517" height="564" alt="image" src="https://github.com/user-attachments/assets/ef9b6ef1-a687-4524-90b5-268eaa196f28" />
 2. In the Attachments section, Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*).
-<img width="2510" height="400" alt="image" src="https://github.com/user-attachments/assets/6395b66f-1a4a-4acb-875c-62514d0edc88" />
+   <img width="2510" height="400" alt="image" src="https://github.com/user-attachments/assets/6395b66f-1a4a-4acb-875c-62514d0edc88" />
 3. Choose Upload and browse to a local image file (JPG, PNG, or PDF)
    <img width="2523" height="744" alt="image" src="https://github.com/user-attachments/assets/9809d07e-6018-45c5-aafb-74fc838451cf" />
 4. Confirm the upload completes successfully.
    <img width="2512" height="454" alt="image" src="https://github.com/user-attachments/assets/667c2773-8ef4-4293-8665-56817501ddd7" />
 5. Save the Product.
+   <img width="2130" height="614" alt="image" src="https://github.com/user-attachments/assets/ffc2abfb-634f-4437-9d6d-88acedbf6d81" />
    
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
 
