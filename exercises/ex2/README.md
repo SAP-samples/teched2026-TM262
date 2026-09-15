@@ -107,7 +107,6 @@ Scenario B — Multiple documents attached:
 | 5 | Observe thumbnail in app (single or multi-doc) | Observation |
 | 6 | Optional - Remove top-priority image; verify fallback thumbnail | Participant Action + Observation |
 
-## Summary
 
 By the end of this exercise, you will have experienced how thumbnail previews facilitate faster product identification directly within the Manage Product Master Data application.
 
