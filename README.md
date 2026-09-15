@@ -54,7 +54,9 @@ The AI is trained against a BP-specific extraction schema, so it understands the
 [Release 2608]
 
 **What problem it solves**
+
 Users had no way to see a visual representation of a product directly within the Manage Product Master Data (F1602) app — they had to navigate into the attachment to view it, breaking the flow of product master maintenance.
+
 **How it works**
 - Thumbnail preview is now displayed for product attachment directly in the Manage Product Master Data application
 - Through integration with Harmonized Document Management (HDM) users can visually identify the product at a glance
