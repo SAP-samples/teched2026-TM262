@@ -19,8 +19,10 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 3. Search for **Configuration ID: 105346 — Activate HDM for Attachment Object Type** or Follow the path: R&D / Engineering > Project Control and Product Development > Product Development Foundation > Activate HDM for Attachment Object Type
 4. Choose **Configure** for the **Activate HDM for Attachment Object Type** configuration step.
 5. Verify that the HDM is Set to **Active** for **Product** object type.
+> [!NOTE]
 > **No changes are required — this is pre-configured for the exercise environment.**
-> 
+
+> [!IMPORTANT]
 > **What you are checking: HDM must be active for the thumbnail feature to function. This step confirms your system is ready.**
 
 **Step 2 — Review the Document-Type Sequence (Priority Order) (Pre-configured / Read-only)**
@@ -30,8 +32,10 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 1. Within the **Activate HDM for Attachment Object Type configuration (ID: 105346)**, Select the **Product** object type and open **Maintain Thumbnail** within the HDM configuration.
 2. Review the list of document types and their assigned thumbnail sequence (e.g., JPG, PNG, PDF).
+> [!NOTE]
 > **Note which document type has the highest priority (position 001) — this will be the one the system selects as the product thumbnail when multiple attachments exist.**
-> 
+
+> [!IMPORTANT]
 > **What you are checking: The priority order determines which attachment is shown as the thumbnail. If multiple images are attached, the system picks the one with the highest-ranked document type.**
 
 **Step 3 — Open Manage Product Master Data App (F1602) (Participant Action)**
