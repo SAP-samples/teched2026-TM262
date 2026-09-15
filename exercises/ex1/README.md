@@ -5,7 +5,7 @@ In this hands-on exercise, you will experience how SAP Document AI can accelerat
 
 Starting from the **Manage Business Partner** application, you will initiate a document-based creation flow, upload a sample document, and review the AI-extracted data. You will learn how to validate extraction results, correct field assignments using the Annotation Panel, and confirm the data before creating the Business Partner draft.
 
-This exercise demonstrates how generative AI and intelligent document processing can reduce manual effort and improve data quality in master data management.
+This exercise demonstrates how intelligent document processing can reduce manual effort and improve data quality in master data management.
 
 The goal of this exercise is to:
 - [Launch the Manage Business Partner application and initiate document-based creation](#launch-manage-business-partner-and-initiate-document-based-creation)
