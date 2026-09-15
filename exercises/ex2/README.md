@@ -23,7 +23,7 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 > **No changes are required — this is pre-configured for the exercise environment.**
 
 > [!IMPORTANT]
-> **What you are checking: HDM must be active for the thumbnail feature to function. This step confirms your system is ready.**
+> **What you are checking: HDM must be active for Product Object type for the thumbnail feature to function. This step confirms your system is ready.**
 
 **Step 2 — Review the Document-Type Sequence (Priority Order) (Pre-configured / Read-only)**
 
