@@ -63,15 +63,15 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 **Step 4 — Upload a Product Image (Participant Action)**
 1. Select **EDIT** button on the top right corner
-   <img width="2517" height="564" alt="image" src="https://github.com/user-attachments/assets/ef9b6ef1-a687-4524-90b5-268eaa196f28" />
+   <img width="2540" height="386" alt="image" src="https://github.com/user-attachments/assets/7091133f-c7d1-4436-864d-7cc25da1ce9a" />
 2. In the Attachments section, Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*).
-   <img width="2510" height="400" alt="image" src="https://github.com/user-attachments/assets/6395b66f-1a4a-4acb-875c-62514d0edc88" />
+   <img width="2513" height="385" alt="image" src="https://github.com/user-attachments/assets/97acbf75-c2ad-431e-a33e-9d732e8ac642" />
 3. Choose Upload and browse to a local image file (JPG, PNG, or PDF)
-   <img width="2523" height="744" alt="image" src="https://github.com/user-attachments/assets/9809d07e-6018-45c5-aafb-74fc838451cf" />
+   <img width="2492" height="757" alt="image" src="https://github.com/user-attachments/assets/faab1927-96b3-4ef7-b777-34ed4bf3a3cc" />
 4. Confirm the upload completes successfully.
-   <img width="2512" height="454" alt="image" src="https://github.com/user-attachments/assets/667c2773-8ef4-4293-8665-56817501ddd7" />
+   <img width="2506" height="473" alt="image" src="https://github.com/user-attachments/assets/691432eb-d482-40cc-8ad2-4eb487f845b6" />
 5. Save the Product.
-   <img width="2130" height="614" alt="image" src="https://github.com/user-attachments/assets/ffc2abfb-634f-4437-9d6d-88acedbf6d81" />
+   <img width="2448" height="559" alt="image" src="https://github.com/user-attachments/assets/e697b224-8574-45ca-91d3-3cb0f20ea42a" />
    
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
 
