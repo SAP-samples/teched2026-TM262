@@ -40,16 +40,26 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 **Step 3 — Open Manage Product Master Data App (F1602) (Participant Action)**
 1. From the SAP Fiori Launchpad, open the **Manage Product Master Data** app (Fiori App ID: F1602).
+   <img width="2493" height="769" alt="image" src="https://github.com/user-attachments/assets/cbc72499-bee3-4919-ab3c-6e7bbc886e81" />
 2. Search for and open an existing product, or use the product assigned to you by the instructor.
+   <img width="2475" height="428" alt="image" src="https://github.com/user-attachments/assets/770b3bc4-0806-4bb4-843c-3fc8f9692576" />
 3. Navigate to the Attachments section of the product.
+   <img width="2523" height="392" alt="image" src="https://github.com/user-attachments/assets/a2175ccb-d93e-47ab-a2ed-0bf5e5b9cc5e" />
+
 > [!NOTE]
 > **You should see a single unified Attachments section — this confirms HDM is active.**
 
 **Step 4 — Upload a Product Image (Participant Action)**
-1. In the Attachments section, choose Select Document Type to Upload.
-2. Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*)
+1. Select **EDIT** button on the top right corner
+   <img width="2510" height="400" alt="image" src="https://github.com/user-attachments/assets/ae98d661-7291-4d71-bbf4-de1162dc06e6" />
+2. In the Attachments section, Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*).
+<img width="2510" height="400" alt="image" src="https://github.com/user-attachments/assets/6395b66f-1a4a-4acb-875c-62514d0edc88" />
 3. Choose Upload and browse to a local image file (JPG, PNG, or PDF)
+   <img width="2523" height="744" alt="image" src="https://github.com/user-attachments/assets/9809d07e-6018-45c5-aafb-74fc838451cf" />
 4. Confirm the upload completes successfully.
+   <img width="2512" height="454" alt="image" src="https://github.com/user-attachments/assets/667c2773-8ef4-4293-8665-56817501ddd7" />
+5. Save the Product.
+   
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
 
 **Step 4 — Observe Thumbnail Behavior (Observation / Result)**
