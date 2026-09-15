@@ -84,8 +84,9 @@ Scenario A — Single document attached:
 2. Select the Product used for uploading the image if required in case you are navigating again
 3. Confirm that the uploaded image is displayed as the product thumbnail:
    - The Manage Product Master Data app(F1602)
-     
-<img width="2521" height="524" alt="image" src="https://github.com/user-attachments/assets/7478cf81-df59-4207-a993-03d00023190b" />
+     <img width="2521" height="524" alt="image" src="https://github.com/user-attachments/assets/7478cf81-df59-4207-a993-03d00023190b" />
+   - Search Page of Manage Product Master Data
+     <img width="2497" height="371" alt="image" src="https://github.com/user-attachments/assets/fe774ef8-39ef-4812-8521-076d7861693b" />
 
 Scenario B — Multiple documents attached:
 
