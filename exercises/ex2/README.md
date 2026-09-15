@@ -1,4 +1,4 @@
-[TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP](../../../../#exercises)
+<img width="468" height="45" alt="image" src="https://github.com/user-attachments/assets/23dca44f-7f69-4ca7-8180-fa29ca80480a" />[TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP](../../../../#exercises)
 # Exercise 2: Thumbnail support for product attachments in the Product Master
 This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making product identification more intuitive across large product catalogues.
 
@@ -39,12 +39,17 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 > **What you are checking: The priority order determines which attachment is shown as the thumbnail. If multiple images are attached, the system picks the one with the highest-ranked document type.**
 
 **Step 3 — Open Manage Product Master Data App (F1602) (Participant Action)**
-1. Open the Manage Product Master Data app (Fiori App ID: F1602).
+1. From the SAP Fiori Launchpad, open the **Manage Product Master Data** app (Fiori App ID: F1602).
 2. Search for and open an existing product, or use the product assigned to you by the instructor.
 3. Navigate to the Attachments section of the product.
-4. In the Attachments section, click Upload or Add Attachment.
-5. Select an image file from your local machine and upload
-6. Save the product record.
+> [!NOTE]
+> **You should see a single unified Attachments section — this confirms HDM is active.**
+
+**Step 4 — Upload a Product Image (Participant Action)**
+1. In the Attachments section, choose Select Document Type to Upload.
+2. Select a document type from the dropdown — use one of the types you noted in Step 2.
+3. Choose Upload and browse to a local image file (JPG, PNG, or PDF)
+4. Confirm the upload completes successfully.
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
 
 **Step 4 — Observe Thumbnail Behavior (Observation / Result)**
@@ -52,10 +57,11 @@ After uploading, check the following:
 
 Scenario A — Single document attached:
 
-1. Navigate back to the product header or object page.
-2. Confirm that the uploaded image is displayed as the product thumbnail in both:
-   - The Manage Product Master Data app
-   - The Product App
+1. Navigate back to the Manage Product Master Data App (F1602).
+2. Select the Product used for uploading the image
+3. Confirm that the uploaded image is displayed as the product thumbnail in both:
+   - The Manage Product Master Data app(F1602)
+   - The Product App(F2773)
 
 Scenario B — Multiple documents attached:
 
