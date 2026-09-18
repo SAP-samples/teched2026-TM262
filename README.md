@@ -104,23 +104,22 @@ AI generates textual summaries for Smart Business KPIs and reports for either an
 
 ## System and Logon information 
 
-{⚠️**NEEDS UPDATES!!>> PLEASE DELETE THIS LINE AFTER INSTRUCTION COMPLETE}
 <table>
   <tr>
     <th>Key</th>
     <th>Value</th>
   </tr>
   <tr>
-    <td>S/4HANA Cloud Public Edition System - <b>SID?????</b> -</td>
-    <td><b>will be provided by your instructors</b>
+    <td>S/4HANA Cloud Public Edition System - <b>SID AN4 </b> -</td>
+    <td><b>https://my426786.s4hana.cloud.sap/ui</b>
   </tr>
   <tr>
     <td>User</td>
-    <td>TM262-?????????????????????</td>
-  </tr>
+    <td>TM262-###@education.cloud.sap, where ### from 001 to 041 </td>
+     </tr>
   <tr>
     <td>Password</td>
-    <td><b>will be provided by your instructors</b>
+    <td>will be provided by your instructors
    </table>
 
 ## Exercises: links and general information
