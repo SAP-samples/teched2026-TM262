@@ -50,7 +50,7 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 > **What you are checking: The priority order determines which attachment is shown as the thumbnail. If multiple images are attached, the system picks the one with the highest-ranked document type.**
 
 **Step 3 — Open Manage Product Master Data App (F1602) (Participant Action)**
-1. From the SAP Fiori Launchpad, open the **Manage Product Master Data** app (Fiori App ID: F1602).
+1. Go back to S/4HANA Cloud system and navigate to **Master Data - Products > Manage Product Master Data** app (Fiori App ID: F1602).
    <img width="2477" height="389" alt="image" src="https://github.com/user-attachments/assets/cdfb8774-a5d0-4aa2-b18a-5ef710dd1253" />
 2. Search for and open an existing product, or use the product assigned to you by the instructor.
    <img width="2501" height="383" alt="image" src="https://github.com/user-attachments/assets/27c0cdbd-0e3e-440a-8f6d-eb9e0e913611" />
@@ -64,7 +64,7 @@ Thumbnails are displayed based on a priority ranking defined per document type a
    <img width="2540" height="386" alt="image" src="https://github.com/user-attachments/assets/7091133f-c7d1-4436-864d-7cc25da1ce9a" />
 2. In the Attachments section, Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*).
    <img width="2513" height="385" alt="image" src="https://github.com/user-attachments/assets/97acbf75-c2ad-431e-a33e-9d732e8ac642" />
-3. Choose Upload and browse to a local image file (JPG, PNG, or PDF)
+3. Choose **Upload** and browse to a local image file (JPEG, PNG or JPG)
    <img width="2492" height="757" alt="image" src="https://github.com/user-attachments/assets/faab1927-96b3-4ef7-b777-34ed4bf3a3cc" />
 4. Confirm the upload completes successfully.
    <img width="2506" height="473" alt="image" src="https://github.com/user-attachments/assets/691432eb-d482-40cc-8ad2-4eb487f845b6" />
@@ -90,7 +90,8 @@ Scenario B — Multiple documents attached:
 
 1. If you uploaded more than one image, go back to Step 2 (Configuration) and check the document-type priority sequence.
 2. Confirm that the system displays the attachment with the highest-priority document type as the thumbnail.
-3. This is indicated by the "Yes – Multiple docs" branch in the exercise flow.
+3. You can also try adding or deleting the any higher priority image to observe change in thumbnail(Thumbnail will be updated with new image)
+4. This is indicated by the "Yes – Multiple docs" branch in the exercise flow.
 
 ### Summary
 
