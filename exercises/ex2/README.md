@@ -11,24 +11,20 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 [Systems and Logon Information](../../README.md#system-and-logon-information)
 
 **Step 1 — Verify Harmonized Document Management (HDM) for Product is Active (Pre-configured / Read-only)**
-1. Log in to the system using the following credentials:
-   - URL:
-   - Username:
-   - Password:
-2. Navigate to **Business Process Configuration > Manage Your Solution > Configure Your Solution**.
+1. Log in to the system using the credentials.
+2. Navigate to **Business Process Configuration > Manage Your Solution > SAP Central Business Configuration**.
    <img width="1002" height="399" alt="image" src="https://github.com/user-attachments/assets/1179efe8-a3fe-4176-9139-0545c0cce981" />
-   <img width="1087" height="415" alt="image" src="https://github.com/user-attachments/assets/a801b1c3-3408-4901-8340-ce0af52a35e4" />
-
-
-4. Search for **Configuration ID: 105346 — Activate HDM for Attachment Object Type**  or
+   <img width="1484" height="345" alt="image" src="https://github.com/user-attachments/assets/dc763658-67c3-4a6f-86b2-7e02055d0782" />
    
-   Follow the path: **R&D / Engineering > Project Control and Product Development > Product Development Foundation > Activate HDM for Attachment Object Type**
-   <img width="2515" height="306" alt="image" src="https://github.com/user-attachments/assets/034c4b41-0ba0-4f47-9f3a-48d445a503c4" />
-   <img width="2502" height="654" alt="image" src="https://github.com/user-attachments/assets/cc6d3eee-d6e8-4748-a812-64ebf4512741" />
+3. In the new CBC page, open activity **Configure Your Business Processes** with **Open** button
+   <img width="1508" height="547" alt="image" src="https://github.com/user-attachments/assets/f43e9464-55da-4290-b669-088eb0ddb204" />
 
-6. Choose **Configure** for the **Activate HDM for Attachment Object Type** configuration step.
+4. Search for **Configuration ID: 105346 — Activate HDM for Attachment Object Type**
+   <img width="1502" height="456" alt="image" src="https://github.com/user-attachments/assets/76c5d1ae-6cdc-42cc-b0ef-4af45941a293" />
+
+5. Choose **Activate HDM for Attachment Object Type** configuration step.
    
-8. Verify that the HDM is Set to **Active** for **Product** object type.
+6. Verify that the HDM is Set to **Active** for **Product** object type.
    <img width="900" height="654" alt="image" src="https://github.com/user-attachments/assets/b27b93a3-ea86-4903-bab9-79daa3c55d00" />
 
 > [!NOTE]
