@@ -189,7 +189,7 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 
 #### Accessing the application from Fiori Launchpad
 
-1. Launch https://tobedecided.s4hana.cloud.sap/ui in a new tab in your browser.
+1. Launch https://my426786.s4hana.cloud.sap/ui in a new tab in your browser.
 
 2. Click on the user menu on the top-right corner, and select App Finder.
 <p align="center">
