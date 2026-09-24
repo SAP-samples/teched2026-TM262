@@ -118,7 +118,7 @@ Your custom analytical query is now ready for consumption in Smart Business KPIs
 </p>
 
 7. Click on the **Settings** button on the toolbar of the chart area.
-8. Select the dimensions and measures as shown in the image. 
+8. Select 'Supplier' under Dimensions and 'Purchase Order Net Amount' under Measures as shown in the image. 
 <p align="center">
 <img src="images/configure_supplier_chart.png" alt="Configure supplier chart" width="80%">
 </p>
