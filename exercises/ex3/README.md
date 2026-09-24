@@ -87,8 +87,18 @@ Your custom analytical query is now ready for consumption in Smart Business KPIs
 <img src="images/Input_parameters.png" alt="Input parameters" width="80%">
 </p>
 
-11. Click on the Value help for **Value Measure** and select ‘’. The other fields can remain as they are. 
-12. Maintain the **Threshold** values as shown in the image below. 
+11. Click on the Value help for **Value Measure** and select ‘Purchase Order Net Amount’. The other fields can remain as they are.
+
+12. Maintain the **Threshold** values as follows : 
+ Target - 250000 
+ Warning is greater than - 500000
+ Critical is greater than - 1000000
+ Trend - 40000000
+ 
+<p align="center">
+<img src="images/Maintain_thresholds.png" alt="Input parameters" width="80%">
+</p>
+
 13. Click on **Save and Activate**. 
 14. You will be navigated to the Display KPI page. 
 
