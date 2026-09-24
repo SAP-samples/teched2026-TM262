@@ -89,11 +89,11 @@ Your custom analytical query is now ready for consumption in Smart Business KPIs
 
 11. Click on the Value help for **Value Measure** and select ‘Purchase Order Net Amount’. The other fields can remain as they are.
 
-12. Maintain the **Threshold** values as follows : 
- Target - 250000 
- Warning is greater than - 500000
- Critical is greater than - 1000000
- Trend - 40000000
+12. Maintain the **Threshold** values as follows :   
+ Target - 250000  
+ Warning is greater than - 500000  
+ Critical is greater than - 1000000  
+ Trend - 40000000  
  
 <p align="center">
 <img src="images/Maintain_thresholds.png" alt="Input parameters" width="80%">
