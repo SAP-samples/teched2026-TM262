@@ -24,7 +24,7 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 
 5. Choose **Activate HDM for Attachment Object Type** configuration step.
    
-6. Verify that the HDM is Set to **Active** for **Product** object type.
+6. Click **Yes** on display locked data related popup and verify that the HDM is Set to **Active** for **Product** object type.
    <img width="900" height="654" alt="image" src="https://github.com/user-attachments/assets/b27b93a3-ea86-4903-bab9-79daa3c55d00" />
 
 > [!NOTE]
