@@ -76,7 +76,7 @@ Your custom analytical query is now ready for consumption in Smart Business KPIs
 <img src="images/Define_datasource.png" alt="Define data source" width="80%">
 </p>
  
-8. Search for your newly created analytical query **_YY1_XXX_PURCHASEORDERVALUE**. 
+8. Search for your newly created analytical query **YY1_XXX_PURCHASEORDERVALUE**. 
 9. Select the view, the oData service and Entity set will get automatically populated. Click on **OK**. 
 <p align="center">
 <img src="images/Select_new_query.png" alt="Select new query" width="80%">
