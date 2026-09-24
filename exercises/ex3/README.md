@@ -98,7 +98,7 @@ Your custom analytical query is now ready for consumption in Smart Business KPIs
 <img src="images/create_generic_drilldown.png" alt="Create Generic Drilldown" width="80%">
 </p>
 
-2. The **Definition** section is prefilled with the name of the KPI. You can change it to any suitable name for your Report.
+2. Enter the title as 'TM_262_XXX Purchase Order Report' (_XXX should be replaced with your group number for eg for place number 25 it is 025_) . The subtitle of the report is defaulted to the title of the KPI.
 
 3. Switch to the **Configuration** section. 
 
