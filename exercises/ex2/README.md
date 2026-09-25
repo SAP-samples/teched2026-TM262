@@ -82,9 +82,9 @@ Scenario A — Single document attached:
 2. Select the Product used for uploading the image if required in case you are navigating again
 3. Confirm that the uploaded image is displayed as the product thumbnail:
    - The Manage Product Master Data app(F1602)
-     <img width="2521" height="524" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_1.png" />
+     <img width="2521" height="524" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Obs1.png" />
    - Search Page of Manage Product Master Data
-     <img width="2497" height="371" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_2.png" />
+     <img width="2497" height="371" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Obs2.png" />
 
 Scenario B — Multiple documents attached:
 
