@@ -203,52 +203,19 @@ When the AI extracts data, it may not always assign values to the correct fields
 ## Verify the Pre-filled Business Partner Fields
 
 25. The system navigates to the **New Business Partner** object page in edit/draft mode. All fields extracted and confirmed from the document have been pre-populated.
-
-26. You can verify the data which was extracted and you observed in the **DocumentAI Workspace**. in the 
-
-    | Field | Pre-filled Value |
-    |---|---|
-    | Name 1 | Musterfirma |
-    | Name 2 | GmbH |
-    | Business Partner Category | Organization (2) |
-
 <p align="center">
 <img src="images/14_bp_draft_basic_data.jpg" alt="New Business Partner Basic Data tab with pre-filled name" width="80%">
 </p>
 
-27. Click on the **Address** tab. Verify that the **Standard Address** fields have been populated correctly from the extracted data:
 
-    | Field | Pre-filled Value |
-    |---|---|
-    | Street | Musterstr. |
-    | House Number | 8 |
-    | Postal Code | 77777 |
-    | City | Ort |
-    | Country/Region | Germany (DE) |
-
-    Also verify the **Standard Communication** section:
-
-    | Field | Pre-filled Value |
-    |---|---|
-    | Language | German (DE) |
-    | Telephone | 0721 9999-10 |
-    | Email | info@musterfirma.de |
-
-<p align="center">
-<img src="images/15_bp_draft_address.jpg" alt="New Business Partner Address tab with pre-filled fields" width="80%">
-</p>
-
-28. Click on the **Bank Accounts** tab to verify that the bank details extracted from the document have been carried over into the Business Partner draft.
-
-29. If you enabled the attachment option in step 22, click on the **Attachments** tab and confirm that the source document (e.g., **Sample_Work_Quotation.pdf**) is listed as an attachment.
+26. If you enabled the attachment option in step 22, click on the **Attachments** tab and confirm that the source document (e.g., **Sample_Work_Quotation.pdf**) is listed as an attachment.
 
 <p align="center">
 <img src="images/17_bp_draft_attachments.jpg" alt="Attachments tab showing the source document" width="80%">
 </p>
 
-30. Review any remaining fields. You may enrich the Business Partner with additional data if required.
+27. Review any remaining fields. You may enrich the Business Partner with additional data if required.
 
-31. When you are satisfied with the data, click **Create** to save the Business Partner as an active record, or click **Discard Draft** to abandon the creation.
 
 ---
 
