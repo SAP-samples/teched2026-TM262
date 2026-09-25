@@ -5,7 +5,7 @@ This exercise shows how thumbnail previews facilitate faster product identificat
 ## Exercise Flow Overview
 
 The diagram below shows the end-to-end flow of this exercise. Refer back to it at any point to orient yourself.
-<img width="1200" height="675" alt="image" src="[https://github.com/user-attachments/assets/a9264a1f-7978-475c-82b1-3d44a4aef188](https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Overview.png)" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/a9264a1f-7978-475c-82b1-3d44a4aef188](https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Overview.png" />
 
 > **Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.**
 [Systems and Logon Information](../../README.md#system-and-logon-information)
