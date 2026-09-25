@@ -100,16 +100,16 @@ _Custom Analytical Queries and Services_.
 
 6. Enter the View title as ‘**By Supplier**’ and click on **Add**.
 <p align="center">
-<img src="images/By_Supplier.png" alt="By Supplier" width="80%">
+<img src="images/By_Supplier.png" alt="By Supplier" width="60%">
 </p>
 
 7. Click on the **Settings** button on the toolbar of the chart area.
 8. Select 'Supplier' under Dimensions and 'Purchase Order Net Amount' under Measures as shown in the image. 
 <p align="center">
-<img src="images/configure_supplier_chart.png" alt="Configure supplier chart" width="80%">
+<img src="images/configure_supplier_chart.png" alt="Configure supplier chart" width="60%">
 </p>
 
-9. Change the Chart type to Pie Chart.
+9. Change the Chart type to **Pie Chart**.
 <p align="center">
 <img src="images/change_chart_type.png" alt="Change chart type" width="80%">
 </p>
