@@ -6,7 +6,6 @@ Finally, you will use AI-assisted summarization to generate a concise textual su
 
 
 The goal of this exercise is to:
-- [Create a custom analytical query](#create-custom-analytical-query)
 - [Create a KPI from Manage KPIs and Reports](#create-kpi)
 - [Create a generic drilldown report](#create-generic-drilldown-report)
 - [Publish a tile and launch report application](#publish-tile-and-launch-report-application)
@@ -15,35 +14,11 @@ The goal of this exercise is to:
 > **Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.**
 [Systems and Logon Information](../../README.md#system-and-logon-information)
 
-## Create Custom Analytical Query
-1. Go to the **Analytics** Page in Fiori Launchpad. Under **Query Design** group, launch the **Custom Analytical Queries and Services** application.
-<p align="center">
-<img src="images/Custom_query_app_flp.png" alt="Custom analytical query" width="80%">
-</p>
+## Create KPI 
+> [!Note]
+>A custom analytical query **YY1_PURCHASEORDERVALUE** has been pre-configured for the purpose of this >exercise. It has been modelled using the SAP delivered query C_PurchaseOrderValue through the application
+>_Custom Analytical Queries and Services_.  
 
-2. Select **Manage Queries** option under **Links**.
-<p align="center">
-<img src="images/Manage_queries.png" alt="Manage queries" width="80%">
-</p>
-
-3. Click on **Copy**.  (_For the purpose of this exercise, we will copy a query that has been built on the SAP-delivered analytical query 'PurchaseOrderValueQuery'_)
-
-4. Select **YY1_PURCHASEORDERVALUE** from the value help of Source query. 
-Enter new query name as 'YY1_XXX_PURCHASEORDERVALUE' (_XXX should be replaced with your group number for eg. for place number 25 it is _025_)
-<p align="center">
-<img src="images/Copy_query.png" alt="Copy query" width="80%">
-</p>
-
-5. The copied query will be created in Draft status. Click on the **Check** button in the toolbar.
-<p align="center">
-<img src="images/Check_query.png" alt="Check query" width="80%">
-</p>
-
-6. After the check is successful, the **Publish** button will be enabled. Click on this **Publish** button.
-
-Your custom analytical query is now ready for consumption in Smart Business KPIs.
-
-## Create KPI
 1. Go to the **Analytics** Page in Fiori Launchpad. Under **KPI Design** group, launch the **Manage KPIs and Reports** application.
 <p align="center">
 <img src="images/Manage_KPI_Reports_app_tile.png" alt="Manage KPI Reports" width="80%">
@@ -76,7 +51,7 @@ Your custom analytical query is now ready for consumption in Smart Business KPIs
 <img src="images/Define_datasource.png" alt="Define data source" width="80%">
 </p>
  
-8. Search for your newly created analytical query **YY1_XXX_PURCHASEORDERVALUE**. 
+8. Search for your newly created analytical query **YY1_PURCHASEORDERVALUE**. 
 9. Select the view, the oData service and Entity set will get automatically populated. Click on **OK**. 
 <p align="center">
 <img src="images/Select_new_query.png" alt="Select new query" width="80%">
