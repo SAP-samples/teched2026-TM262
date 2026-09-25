@@ -61,15 +61,15 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 **Step 4 — Upload a Product Image (Participant Action)**
 1. Select **EDIT** button on the top right corner
-   <img width="2540" height="386" alt="image" src="https://github.com/user-attachments/assets/7091133f-c7d1-4436-864d-7cc25da1ce9a" />
+   <img width="2540" height="386" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit1.png" />
 2. In the Attachments section, Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*).
-   <img width="2513" height="385" alt="image" src="https://github.com/user-attachments/assets/97acbf75-c2ad-431e-a33e-9d732e8ac642" />
+   <img width="2513" height="385" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit2.png" />
 3. Choose **Upload** and browse to a local image file (JPEG, PNG or JPG)
-   <img width="2492" height="757" alt="image" src="https://github.com/user-attachments/assets/faab1927-96b3-4ef7-b777-34ed4bf3a3cc" />
+   <img width="2492" height="757" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit3.png" />
 4. Confirm the upload completes successfully.
-   <img width="2506" height="473" alt="image" src="https://github.com/user-attachments/assets/691432eb-d482-40cc-8ad2-4eb487f845b6" />
+   <img width="2506" height="473" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit4.png" />
 5. Save the Product.
-   <img width="2448" height="559" alt="image" src="https://github.com/user-attachments/assets/e697b224-8574-45ca-91d3-3cb0f20ea42a" />
+   <img width="2448" height="559" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit5.png" />
    
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
 
@@ -82,9 +82,9 @@ Scenario A — Single document attached:
 2. Select the Product used for uploading the image if required in case you are navigating again
 3. Confirm that the uploaded image is displayed as the product thumbnail:
    - The Manage Product Master Data app(F1602)
-     <img width="2521" height="524" alt="image" src="https://github.com/user-attachments/assets/7478cf81-df59-4207-a993-03d00023190b" />
+     <img width="2521" height="524" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_1.png" />
    - Search Page of Manage Product Master Data
-     <img width="2497" height="371" alt="image" src="https://github.com/user-attachments/assets/fe774ef8-39ef-4812-8521-076d7861693b" />
+     <img width="2497" height="371" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_2.png" />
 
 Scenario B — Multiple documents attached:
 
