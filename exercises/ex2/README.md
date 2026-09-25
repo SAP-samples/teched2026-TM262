@@ -1,4 +1,5 @@
 <img width="468" height="45" alt="image" src="https://github.com/user-attachments/assets/23dca44f-7f69-4ca7-8180-fa29ca80480a" />[TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP](../../../../#exercises)
+
 # Exercise 2: Thumbnail support for product attachments in the Product Master
 This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making product identification more intuitive across large product catalogues.
 
