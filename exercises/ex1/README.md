@@ -154,9 +154,9 @@ When the AI extracts data, it may not always assign values to the correct fields
 
     | Field | Extracted Value |
     |---|---|
-    | Bank Name | Musterbank... |
+    | Bank Name | Musterbank |
     | Bank Country | DE |
-    | IBAN | DE 10 1... |
+    | IBAN | DE 10 12345678 0123456|
     | BIC | MALADE |
 
 <p align="center">
