@@ -3,7 +3,7 @@
 
 In this hands-on exercise, you will experience how SAP Document AI can accelerate and simplify the creation of a Business Partner in SAP S/4HANA Cloud. Instead of manually entering data, you will upload a source document — such as a vendor quotation — and let the AI extract relevant fields automatically.
 
-Starting from the **Manage Business Partner** application, you will initiate a document-based creation flow, upload a sample document, and review the AI-extracted data. You will learn how to validate extraction results, correct field assignments using the Annotation Panel, and confirm the data before creating the Business Partner draft.
+Starting from the **Manage Business Partner Master Data** application, you will initiate a document-based creation flow, upload a sample document, and review the AI-extracted data. You will learn how to validate extraction results, correct field assignments using the Annotation Panel, and confirm the data before creating the Business Partner draft.
 
 This exercise demonstrates how intelligent document processing can reduce manual effort and improve data quality in master data management.
 
@@ -139,7 +139,7 @@ When the AI extracts data, it may not always assign values to the correct fields
 <img src="images/09_annotation_panel_apply.jpg" alt="Annotation Panel with value and Apply button" width="80%">
 </p>
 
-17. Click **Apply**. The Annotation Panel closes and the extracted field values are updated. Observe that:
+17. Click **Apply**. The Annotation Panel closes and the extracted field values are updated. Observe that at the right pannel:
     - **Sender First Name** now shows **Musterfirma** with a high-confidence (green) indicator
     - **Sender Last Name** shows **GmbH** with a high-confidence (green) indicator
 
@@ -204,7 +204,7 @@ When the AI extracts data, it may not always assign values to the correct fields
 
 25. The system navigates to the **New Business Partner** object page in edit/draft mode. All fields extracted and confirmed from the document have been pre-populated.
 
-26. On the **Basic Data** tab, verify the **General Information** section:
+26. You can verify the data which was extracted and you observed in the **DocumentAI Workspace**. in the 
 
     | Field | Pre-filled Value |
     |---|---|
