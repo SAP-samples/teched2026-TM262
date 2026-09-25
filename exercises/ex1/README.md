@@ -107,7 +107,6 @@ The goal of this exercise is to:
     | Field | Extracted Value |
     |---|---|
     | Sender Last Name | Musterfirma GmbH |
-    | Business Partner Category | Organization |
 
 <p align="center">
 <img src="images/07_header_data_general.jpg" alt="Header Data with General Data fields" width="80%">
