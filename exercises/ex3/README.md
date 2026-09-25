@@ -14,10 +14,7 @@ The goal of this exercise is to:
 > **Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.**
 [Systems and Logon Information](../../README.md#system-and-logon-information)
 
-## Create KPI 
-> [!Note]
->A custom analytical query **YY1_PURCHASEORDERVALUE** has been pre-configured for the purpose of this exercise. It has been modelled using the SAP delivered query C_PurchaseOrderValue through the application
-_Custom Analytical Queries and Services_.  
+## Create KPI  
  
 1. Go to the **Analytics** Page in Fiori Launchpad. Under **KPI Design** group, launch the **Manage KPIs and Reports** application.
 <p align="center">
@@ -50,7 +47,11 @@ _Custom Analytical Queries and Services_.
 <p align="center">
 <img src="images/Define_datasource.png" alt="Define data source" width="80%">
 </p>
- 
+
+> [!Note]
+>A custom analytical query **YY1_PURCHASEORDERVALUE** has been pre-configured for the purpose of this exercise. It has been modelled using the SAP delivered query C_PurchaseOrderValue through the application
+_Custom Analytical Queries and Services_.  
+
 8. Search for the analytical query **YY1_PURCHASEORDERVALUE**. 
 9. Select the view, the oData service and Entity set will get automatically populated. Click on **OK**. 
 <p align="center">
