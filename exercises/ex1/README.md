@@ -39,7 +39,7 @@ The goal of this exercise is to:
 <img src="images/02_create_from_document_dialog.jpg" alt="Create from Document dialog" width="80%">
 </p>
 
-   The dialog displays an information message: _"This feature uses AI to extract data from the file you upload to create a Business Partner draft."_
+
 
    You will be asked to:
    - Select a **Business Partner Category** (Person or Organization)
