@@ -39,9 +39,9 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 Thumbnails are displayed based on a priority ranking defined per document type and file extension. The system selects the attachment with the highest-priority document type as the thumbnail.
 
 1. Within the **Activate HDM for Attachment Object Type configuration (ID: 105346)**, Select the **Product** object type and open **Maintain Thumbnail** within the HDM configuration.
-   <img width="816" height="527" alt="image" src="https://github.com/user-attachments/assets/3f3e0f27-5343-4c36-94b8-88861c5ca598" />
+   <img width="816" height="527" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_1.png" />
 2. Review the list of document types and their assigned thumbnail sequence (e.g., JPG, PNG).
-   <img width="1067" height="394" alt="image" src="https://github.com/user-attachments/assets/c4fdbaea-240f-4eb7-8992-42e3889e9222" />
+   <img width="1067" height="394" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_2.png" />
 
 > [!NOTE]
 > **Note which document type has the highest priority (position 001) — this will be the one the system selects as the product thumbnail when multiple attachments exist.**
@@ -51,11 +51,11 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 **Step 3 — Open Manage Product Master Data App (F1602) (Participant Action)**
 1. Go back to S/4HANA Cloud system and navigate to **Master Data - Products > Manage Product Master Data** app (Fiori App ID: F1602).
-   <img width="2477" height="389" alt="image" src="https://github.com/user-attachments/assets/cdfb8774-a5d0-4aa2-b18a-5ef710dd1253" />
+   <img width="2477" height="389" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA1.png" />
 2. Search for and open an existing product(example: if your user ID is TM262-013 then use ZTM262-013), or use the product assigned to you by the instructor.
-   <img width="2501" height="383" alt="image" src="https://github.com/user-attachments/assets/27c0cdbd-0e3e-440a-8f6d-eb9e0e913611" />
+   <img width="2501" height="383" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA2.png" />
 3. Navigate to the Attachments section of the product.
-   <img width="2519" height="403" alt="image" src="https://github.com/user-attachments/assets/3f79e246-0055-4010-8be9-a333a805d5eb" />
+   <img width="2519" height="403" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA3.png" />
 > [!NOTE]
 > **You should see a single unified Attachments section — this confirms HDM is active.**
 
