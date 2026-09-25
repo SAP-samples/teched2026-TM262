@@ -110,6 +110,9 @@ _Custom Analytical Queries and Services_.
 </p>
 
 9. Change the Chart type to Pie Chart.
+<p align="center">
+<img src="images/change_chart_type.png" alt="Change chart type" width="80%">
+</p>
 
 10. Similarly add another view named ‘Document’, and select View Type as **Table**.
 <p align="center">
