@@ -1,7 +1,7 @@
 [TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP](../../../../#exercises)
 # Exercise 3: AI-assisted text summaries for SAP Smart Business KPIs and reports
 In this hands-on exercise, you will experience the end-to-end journey of creating and consuming embedded analytics in SAP S/4HANA Cloud, with a focus on how AI-assisted summaries can help users understand analytical results more quickly.
-Starting from an existing SAP-delivered analytical query, you will create a copy that serves as the analytical foundation for the exercise. You will then create a Smart Business KPI, configure a generated drill-down report, publish the corresponding application, and launch it from the SAP Fiori launchpad.
+A custom analytical query that has been modelled from an existing SAP-delivered analytical query, will serve as the analytical foundation for the exercise. You will create a Smart Business KPI using this query, configure a generated drill-down report, publish the corresponding application, and launch it from the SAP Fiori launchpad.
 Finally, you will use AI-assisted summarization to generate a concise textual summary of the analytical results. This demonstrates how generative AI can complement traditional KPI visualizations by helping users quickly understand the current business situation without having to manually interpret multiple charts and data points.
 
 
@@ -16,9 +16,9 @@ The goal of this exercise is to:
 
 ## Create KPI 
 > [!Note]
->A custom analytical query **YY1_PURCHASEORDERVALUE** has been pre-configured for the purpose of this >exercise. It has been modelled using the SAP delivered query C_PurchaseOrderValue through the application
->_Custom Analytical Queries and Services_.  
-
+>A custom analytical query **YY1_PURCHASEORDERVALUE** has been pre-configured for the purpose of this exercise. It has been modelled using the SAP delivered query C_PurchaseOrderValue through the application
+_Custom Analytical Queries and Services_.  
+ 
 1. Go to the **Analytics** Page in Fiori Launchpad. Under **KPI Design** group, launch the **Manage KPIs and Reports** application.
 <p align="center">
 <img src="images/Manage_KPI_Reports_app_tile.png" alt="Manage KPI Reports" width="80%">
@@ -51,7 +51,7 @@ The goal of this exercise is to:
 <img src="images/Define_datasource.png" alt="Define data source" width="80%">
 </p>
  
-8. Search for your newly created analytical query **YY1_PURCHASEORDERVALUE**. 
+8. Search for the analytical query **YY1_PURCHASEORDERVALUE**. 
 9. Select the view, the oData service and Entity set will get automatically populated. Click on **OK**. 
 <p align="center">
 <img src="images/Select_new_query.png" alt="Select new query" width="80%">
