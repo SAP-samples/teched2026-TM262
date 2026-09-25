@@ -102,53 +102,39 @@ The goal of this exercise is to:
     - Orange (Medium confidence — review recommended)
     - Red (Low confidence — correction required)
 
-12. On the **Header Data** tab, review the **General Data** section. Verify that the following fields have been extracted:
-
-    | Field | Extracted Value |
-    |---|---|
-    | Sender Last Name | Musterfirma GmbH |
-
 <p align="center">
 <img src="images/07_header_data_general.jpg" alt="Header Data with General Data fields" width="80%">
 </p>
 
-   > Notice that **Sender Last Name** shows a medium-confidence (orange) indicator, and **Sender First Name** is empty. The AI has assigned the full company name to the Last Name field. In the next section, you will correct this.
+   > Notice that **Sender Last Name** shows a medium-confidence (orange) indicator, and **Sender First Name** is empty. The AI has assigned the full name to the Last Name field. In the next section, you will correct this.
 
 ---
 
 ## Correct Field Data
 
-When the AI extracts data, it may not always assign values to the correct fields. The **Annotation Panel** allows you to manually assign text regions from the document to the correct fields.
+When the AI extracts data, it may not always assign values to the correct fields. 
 
-13. To correct the field assignment, click on the highlighted text region in the **document preview panel** on the left side (the text "Musterfirma GmbH" as highlighted by the extraction engine). The **Annotation Panel** will open as an overlay.
-
-<p align="center">
-<img src="images/08_annotation_panel_field_selector.jpg" alt="Annotation Panel with field dropdown" width="80%">
-</p>
-
-14. In the **Annotation Panel**, use the **Field** dropdown to view all supported fields. 
-
-15. Change the **Field** from _Sender Last Name_ to **Sender First Name**.
-
-16. In the **Value** field, enter the correct value (e.g., **Musterfirma**) to assign as the first name/company name part.
+12. To correct the field assignment, first click the **Edit** button in the top-right toolbar of the extraction review page to enter edit mode.
 
 <p align="center">
-<img src="images/09_annotation_panel_apply.jpg" alt="Annotation Panel with value and Apply button" width="80%">
+<img src="images/06_extraction_review_page.jpg" alt="Extraction review page with Edit button" width="80%">
 </p>
 
-17. Click **Apply**. The Annotation Panel closes and the extracted field values are updated. Observe that at the right pannel:
+13. Once in edit mode, scroll to the **General Data** section in the right panel. Click into the **Sender First Name** field and enter **Musterfirma**. Then click into the **Sender Last Name** field and enter **GmbH**.
+
+<p align="center">
+<img src="images/13_edit_sender_name_fields.png" alt="Sender First Name and Sender Last Name fields filled in General Data" width="80%">
+</p>
+
+14. Verify that the fields have been correctly entered:
     - **Sender First Name** now shows **Musterfirma** with a high-confidence (green) indicator
     - **Sender Last Name** shows **GmbH** with a high-confidence (green) indicator
-
-<p align="center">
-<img src="images/10_header_data_after_annotation.jpg" alt="Header Data after annotation correction" width="80%">
-</p>
 
 ---
 
 ## Review Bank Accounts and Tax Data
 
-18. Click on the **Bank Accounts** tab in the right panel.
+15. Click on the **Bank Accounts** tab in the right panel.
 
     The system has automatically detected the following bank account information from the document:
 
@@ -165,7 +151,7 @@ When the AI extracts data, it may not always assign values to the correct fields
 
    > Verify each field against the source document in the left panel. The IBAN shows a medium-confidence (orange) indicator — if necessary, you can click on the field to correct the value.
 
-19. Click on the **Tax Data** tab to review any tax-related information extracted.
+16. Click on the **Tax Data** tab to review any tax-related information extracted.
 
     > In some cases, the AI may incorrectly identify a value as a tax number when it is not. If any entries in the Tax Data table are incorrect, select the corresponding row and delete it using the row-level actions.
 
@@ -177,13 +163,13 @@ When the AI extracts data, it may not always assign values to the correct fields
 
 ## Save, Confirm, and Create the Business Partner Draft
 
-20. Once you have reviewed and corrected all extracted fields, click **Save and Confirm** in the footer toolbar.
+17. Once you have reviewed and corrected all extracted fields, click **Save and Confirm** in the footer toolbar.
 
     > This action saves the document extraction record and marks it as confirmed. The status will change from _Review Needed_ to _Confirmed_.
 
-21. Close the extraction review browser tab and return to the original **Create from Document** dialog.
+18. Close the extraction review browser tab and return to the original **Create from Document** dialog.
 
-22. The dialog now shows a **Success** message confirming that the extraction is complete.
+19. The dialog now shows a **Success** message confirming that the extraction is complete.
 
     Optionally, enable the checkbox **Add the file as an attachment to the Business Partner** if you want the source document to be stored alongside the Business Partner record for compliance or audit purposes.
 
@@ -191,27 +177,27 @@ When the AI extracts data, it may not always assign values to the correct fields
 <img src="images/13_extraction_complete_attachment.jpg" alt="Extraction complete with optional attachment checkbox" width="80%">
 </p>
 
-23. Under **Select a business partner category**, confirm that **Organization** is selected (this is a mandatory field).
+20. Under **Select a business partner category**, confirm that **Person** or **Organization** is selected (this is a mandatory field).
 
-24. Click **Create** to proceed.
+21. Click **Create** to proceed.
 
 ---
 
 ## Verify the Pre-filled Business Partner Fields
 
-25. The system navigates to the **New Business Partner** object page in edit/draft mode. All fields extracted and confirmed from the document have been pre-populated.
+22. The system navigates to the **New Business Partner** object page in edit/draft mode. All fields extracted and confirmed from the document have been pre-populated.
 <p align="center">
 <img src="images/14_bp_draft_basic_data.jpg" alt="New Business Partner Basic Data tab with pre-filled name" width="80%">
 </p>
 
 
-26. If you enabled the attachment option in step 22, click on the **Attachments** tab and confirm that the source document (e.g., **Sample_Work_Quotation.pdf**) is listed as an attachment.
+23. If you enabled the attachment option in step 19, click on the **Attachments** tab and confirm that the source document (e.g., **Sample_Work_Quotation.pdf**) is listed as an attachment.
 
 <p align="center">
 <img src="images/17_bp_draft_attachments.jpg" alt="Attachments tab showing the source document" width="80%">
 </p>
 
-27. Review any remaining fields. You may enrich the Business Partner with additional data if required.
+24. Review any remaining fields. You may enrich the Business Partner with additional data if required.
 
 
 ---
