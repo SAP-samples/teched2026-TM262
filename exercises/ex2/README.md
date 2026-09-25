@@ -13,8 +13,8 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 **Step 1 — Verify Harmonized Document Management (HDM) for Product is Active (Pre-configured / Read-only)**
 1. Log in to the system using the credentials.
 2. Navigate to **Business Process Configuration > Manage Your Solution > SAP Central Business Configuration**.
-   <img width="1002" height="399" alt="image" src="https://github.com/user-attachments/assets/1179efe8-a3fe-4176-9139-0545c0cce981" />
-   <img width="1484" height="345" alt="image" src="https://github.com/user-attachments/assets/dc763658-67c3-4a6f-86b2-7e02055d0782" />
+   <img width="1002" height="399" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_1.png" />
+   <img width="1484" height="345" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_2.png" />
    
 3. In the new CBC page, open activity **Configure Your Business Processes** with **Open** button
    <img width="1508" height="547" alt="image" src="https://github.com/user-attachments/assets/f43e9464-55da-4290-b669-088eb0ddb204" />
