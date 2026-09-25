@@ -116,9 +116,9 @@ The goal of this exercise is to:
 
 ---
 
-## Correct Field Assignments Using the Annotation Panel
+## Correct Field Data
 
-When the AI extracts data, it may not always assign values to the correct fields, especially for company names. The **Annotation Panel** allows you to manually assign text regions from the document to the correct fields.
+When the AI extracts data, it may not always assign values to the correct fields. The **Annotation Panel** allows you to manually assign text regions from the document to the correct fields.
 
 13. To correct the field assignment, click on the highlighted text region in the **document preview panel** on the left side (the text "Musterfirma GmbH" as highlighted by the extraction engine). The **Annotation Panel** will open as an overlay.
 
@@ -126,9 +126,7 @@ When the AI extracts data, it may not always assign values to the correct fields
 <img src="images/08_annotation_panel_field_selector.jpg" alt="Annotation Panel with field dropdown" width="80%">
 </p>
 
-14. In the **Annotation Panel**, use the **Field** dropdown to view all supported fields. The system supports 20+ fields across the following groups:
-    - **Bank Accounts**: IBAN, BIC, Account Number, Bank Name, Account Holder, Bank Country
-    - **Header Data**: Sender First Name, Sender Last Name, Business Partner Category, Street Name, House Number, Postal Code, PO Box, City, State, Country Code, Language, Phone Number, Email, and more
+14. In the **Annotation Panel**, use the **Field** dropdown to view all supported fields. 
 
 15. Change the **Field** from _Sender Last Name_ to **Sender First Name**.
 
