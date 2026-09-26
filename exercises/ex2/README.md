@@ -90,6 +90,7 @@ Thumbnails are displayed based on a priority ranking defined per document type a
   <img width="2501" height="383" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA2_1.png" />
 4. Navigate to the Attachments section of the product.
    <img width="2519" height="403" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA3.png" />
+   
 > [!NOTE]
 > **You should see a single unified Attachments section — this confirms HDM is active.**
 
@@ -99,7 +100,7 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 1. Select **EDIT** button on the top right corner
    <img width="2540" height="386" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit1.png" />
-2. In the Attachments section, Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*).
+2. In the Attachments section, ensure that **Document Type** is - **Office-Documents (YBO)** (*by default selected*).
    <img width="2513" height="385" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit2.png" />
 3. Choose **Upload** and browse to a local image file (JPEG, PNG or JPG)
    <img width="2492" height="757" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit3.png" />
@@ -118,9 +119,10 @@ After uploading, check the following:
 
 Scenario A — Single document attached:
 
-1. Go to the header section or navigate back to the Manage Product Master Data App (F1602).
-2. Select the Product used for uploading the image if required in case you are navigating again
-3. Confirm that the uploaded image is displayed as the product thumbnail:
+1. After saving, the thumbnail is automatically displayed in the **product header** — look for the image on the **left side of the header**, next to the product type and category details.
+2. To also see the thumbnail in the product list, navigate back to the **Manage Product Master Data** app. Your product now shows the uploaded image 
+in the **Image** column on the left of the search results.
+4. Confirm that the uploaded image is displayed as the product thumbnail:
    - The Manage Product Master Data app(F1602)
      <img width="2521" height="524" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Obs1.png" />
    - Search Page of Manage Product Master Data
