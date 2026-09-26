@@ -117,7 +117,7 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 After uploading, check the following:
 
-Scenario A — Single document attached:
+**Scenario A — Single document attached:**
 
 1. After saving, the thumbnail is automatically displayed in the **product header** — look for the image on the **left side of the header**, next to the product type and category details.
 2. To also see the thumbnail in the product list, navigate back to the **Manage Product Master Data** app. Your product now shows the uploaded image 
@@ -128,12 +128,12 @@ in the **Image** column on the left of the search results.
    - Search Page of Manage Product Master Data
      <img width="2497" height="371" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Obs2.png" />
 
-Scenario B — Multiple documents attached:
+**Scenario B — Multiple documents attached:**
+If you uploaded more than one image, the system displays the attachment with the **highest-priority document type** as the thumbnail.
 
-1. If you uploaded more than one image, go back to Step 2 (Configuration) and check the document-type priority sequence.
-2. Confirm that the system displays the attachment with the highest-priority document type as the thumbnail.
-3. You can also try adding or deleting the any higher priority image to observe change in thumbnail(Thumbnail will be updated with new image)
-4. This is indicated by the "Yes – Multiple docs" branch in the exercise flow.
+To test the priority logic:
+- Delete the highest-priority image and observe that the thumbnail updates to the next in sequence.
+- Or upload an image with a higher-priority document type and confirm it replaces the current thumbnail.
 
 ### Summary
 
