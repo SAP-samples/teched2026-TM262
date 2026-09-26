@@ -3,11 +3,6 @@
 # Exercise 2: Thumbnail support for product attachments in the Product Master
 This exercise shows how thumbnail previews facilitate faster product identification - reducing navigation effort and making product identification more intuitive across large product catalogues.
 
-## Exercise Flow Overview
-
-The diagram below shows the end-to-end flow of this exercise. Refer back to it at any point to orient yourself.
-<img width="1200" height="675" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Overview.png" />
-
 The goal of this exercise is to:
 - [Verify Harmonized Document Management (HDM) for Product is Active](#step-1--verify-harmonized-document-management-hdm-for-product-is-active)
 - [Review the Document-Type Sequence and Priority Order](#step-2--review-the-document-type-sequence)
@@ -15,6 +10,11 @@ The goal of this exercise is to:
 - [Upload a Product Image to the Attachments Section](#step-4--upload-a-product-image)
 - [Observe Thumbnail Behavior](#step-5--observe-thumbnail-behavior)
 - [Summary](#summary)
+- 
+## Exercise Flow Overview
+
+The diagram below shows the end-to-end flow of this exercise. Refer back to it at any point to orient yourself.
+<img width="1200" height="675" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Overview.png" />
 
 > **Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.**
 [Systems and Logon Information](../../README.md#system-and-logon-information)
