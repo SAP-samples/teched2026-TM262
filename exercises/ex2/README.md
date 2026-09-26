@@ -129,6 +129,7 @@ in the **Image** column on the left of the search results.
      <img width="2497" height="371" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Obs2.png" />
 
 **Scenario B — Multiple documents attached:**
+
 If you uploaded more than one image, the system displays the attachment with the **highest-priority document type** as the thumbnail.
 
 To test the priority logic:
