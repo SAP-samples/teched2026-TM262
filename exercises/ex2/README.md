@@ -78,9 +78,14 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 1. Go back to the S/4HANA Cloud home screen and search for **Manage Product Master Data** in the app finder. Open the app.
 > <small>Tip: You can also navigate directly via **Master Data - Products > Manage Product Master Data.**.</small>
-   <img width="2477" height="389" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA1.png" />
-2. In the app, enter your product ID in the **Product Number** field and search. Your product ID follows the format **ZTM262-XXX**, where **XXX** matches your user number (e.g. user **TM262-013** → product **ZTM262-013**).
+
+  <img width="2477" height="389" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA1.png" />
+   
+2. In the app, enter your product ID in the **Product Number** field and search.
+   Your product ID follows the format **ZTM262-XXX**, where **XXX** matches your user number (e.g. user **TM262-013** → product **ZTM262-013**).
+   
    <img width="2501" height="383" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA2.png" />
+  
 3. In the results, click the **arrow ( > )** at the end of the product row to open it.
   <img width="2501" height="383" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA2_1.png" />
 4. Navigate to the Attachments section of the product.
