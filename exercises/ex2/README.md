@@ -19,7 +19,11 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 > **Access SAP S/4HANA Public Cloud Edition with system URL and user provided to you.**
 [Systems and Logon Information](../../README.md#system-and-logon-information)
 
-## Step 1 — Verify Harmonized Document Management (HDM) for Product is Active (Pre-configured / Read-only)
+## Step 1 — Verify Harmonized Document Management (HDM) for Product is Active
+
+*Pre-configured / Read-only*
+
+
 1. Log in to the system using the credentials.
 2. Navigate to **Business Process Configuration > Manage Your Solution > SAP Central Business Configuration**.
    <img width="1002" height="399" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_1.png" />
@@ -42,7 +46,9 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 > [!IMPORTANT]
 > **What you are checking: HDM must be active for Product Object type for the thumbnail feature to function. This step confirms your system is ready.**
 
-## Step 2 — Review the Document-Type Sequence (Priority Order) (Pre-configured / Read-only)
+## Step 2 — Review the Document-Type Sequence 
+
+*Pre-configured / Read-only*
 
 **Participant Action :**
 Thumbnails are displayed based on a priority ranking defined per document type and file extension. The system selects the attachment with the highest-priority document type as the thumbnail.
@@ -58,7 +64,10 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 > [!IMPORTANT]
 > **What you are checking: The priority order determines which attachment is shown as the thumbnail. If multiple images are attached, the system picks the one with the highest-ranked document type.**
 
-## Step 3 — Open Manage Product Master Data App (F1602) (Participant Action)
+## Step 3 — Open Manage Product Master Data App (F1602) 
+
+*Participant Action*
+
 1. Go back to S/4HANA Cloud system and navigate to **Master Data - Products > Manage Product Master Data** app (Fiori App ID: F1602).
    <img width="2477" height="389" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PMA1.png" />
 2. Search for and open an existing product(example: if your user ID is TM262-013 then use ZTM262-013), or use the product assigned to you by the instructor.
@@ -68,7 +77,10 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 > [!NOTE]
 > **You should see a single unified Attachments section — this confirms HDM is active.**
 
-## Step 4 — Upload a Product Image (Participant Action)
+## Step 4 — Upload a Product Image
+
+*Participant Action*
+
 1. Select **EDIT** button on the top right corner
    <img width="2540" height="386" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit1.png" />
 2. In the Attachments section, Select a document type from the dropdown - **Office-Documents (YBO)** (*by default selected*).
@@ -82,7 +94,10 @@ Thumbnails are displayed based on a priority ranking defined per document type a
    
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
 
-## Step 5 — Observe Thumbnail Behavior (Observation / Result)
+## Step 5 — Observe Thumbnail Behavior
+
+*Observation / Result*
+
 After uploading, check the following:
 
 Scenario A — Single document attached:
