@@ -31,20 +31,19 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 
    <img width="1002" height="399" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_1.png" />
    <img width="1484" height="345" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_2.png" />
-   
-4. In the CBC overview page, scroll down to the **Product-Specific Configuration** section and find the **Configure Your Business Processes** activity. Click **Open**.
+3. In the CBC overview page, scroll down to the **Product-Specific Configuration** section and find the **Configure Your Business Processes** activity. Click **Open**.
 
    <img width="1508" height="547" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_3.png" />
 
-5. In the **Configure Your Business Processes** page, search for **105346** in the Search bar.
+4. In the **Configure Your Business Processes** page, search for **105346** in the Search bar.
 
-6. In the results, click **Activate HDM for Attachment Object Type** under **General Business Data > Data Management > Document Management > Attachment Services**..
+5. In the results, click **Activate HDM for Attachment Object Type** under **General Business Data > Data Management > Document Management > Attachment Services**..
    <img width="1502" height="456" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_4.png" />
       
-7. A popup asking about locked data will appear — click **Yes** to proceed.
+6. A popup asking about locked data will appear — click **Yes** to proceed.
    You are now in the **Activate HDM for Attachment Object Types** table. 
 
-8. The list is sorted alphabetically — scroll down to the **P** section and locate **PRODUCT**. Verify that the **Activate** checkbox for **PRODUCT** is checked (✔).
+7. The list is sorted alphabetically — scroll down to the **P** section and locate **PRODUCT**. Verify that the **Activate** checkbox for **PRODUCT** is checked (✔).
    <img width="900" height="654" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Configuration_5.png" />
 
 > [!NOTE]
@@ -61,7 +60,9 @@ The diagram below shows the end-to-end flow of this exercise. Refer back to it a
 Thumbnails are displayed based on a priority ranking defined per document type and file extension. The system selects the attachment with the highest-priority document type as the thumbnail.
 
 1. Select the **PRODUCT** row by checking its checkbox on the left. In the **Dialog Structure** panel on the left, double click **Maintain Thumbnail**.
+
    <img width="816" height="527" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_1.png" />
+   
 2. Review the list of document types and their assigned thumbnail sequence (e.g., JPG, PNG).
    <img width="1067" height="394" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/Review_Conf_2.png" />
 
