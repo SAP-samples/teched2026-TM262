@@ -27,7 +27,7 @@ The goal of this exercise is to:
 <img src="images/Group_Create_button.png" alt="Create group" width="80%">
 </p>
 
-3. Enter title for the Group ‘TM_262_XXX Group’.(_XXX should be replaced with your group number for eg for place number 25 it is 025_)
+3. Enter title for the Group ‘Group TM_262_XXX’.(_XXX should be replaced with your group number for eg for place number 25 it is 025_)
 
 4. Click on **Save and Activate**. 
 
@@ -41,7 +41,7 @@ The goal of this exercise is to:
 <img src="images/Add_KPI_button.png" alt="Add KPI" width="80%">
 </p>
 
-6. Enter the title as ‘TM_262_XXX Purchase Order Value’.(_XXX should be replaced with your group number for eg for place number 25 it is 025_)
+6. Enter the title as ‘Purchase Order Value TM_262_XXX’.(_XXX should be replaced with your group number for eg for place number 25 it is 025_)
 
 7. Scroll to the **Data Source** section and click on **Define**.
 <p align="center">
@@ -63,7 +63,11 @@ _Custom Analytical Queries and Services_.
 <img src="images/Input_parameters.png" alt="Input parameters" width="80%">
 </p>
 
-11. Click on the Value help for **Value Measure** and select ‘Purchase Order Net Amount’. The other fields can remain as they are.
+11. Click on the Value help for **Value Measure** and select ‘Purchase Order Net Amount’. The other fields can remain as they are. 
+<p align="center">
+<img src="images/value_measure_value_help.png" alt="Value measure" width="40%">
+<img src="images/select_po_net_amount.png" alt="Value measure" width="40%">
+</p>
 
 12. Maintain the **Threshold** values as follows :   
  Target - 250000  
@@ -104,7 +108,7 @@ _Custom Analytical Queries and Services_.
 </p>
 
 7. Click on the **Settings** button on the toolbar of the chart area.
-8. Select 'Supplier' under Dimensions and 'Purchase Order Net Amount' under Measures as shown in the image. 
+8. Select 'Supplier' under Dimensions and 'Purchase Order Net Amount' under Measures as shown in the image. Click on **OK**. 
 <p align="center">
 <img src="images/configure_supplier_chart.png" alt="Configure supplier chart" width="60%">
 </p>
