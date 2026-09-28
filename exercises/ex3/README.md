@@ -123,7 +123,8 @@ _Custom Analytical Queries and Services_.
 <img src="images/document_view.png" alt="Document tabular view" width="80%">
 </p>
 
-11. Click on the **settings** icon and select the following columns as shown in the image. You can rearrange the fields to place the Dimensions before the Measures in the Columns settings.
+11. Click on the **settings** icon and select the following columns : **Calendar Year**, **Company Code**, **Material** and **Purchase Order Net Amount**. 
+You can rearrange the fields to place the Dimensions before the Measures in the Columns settings.
 <p align="center">
 <img src="images/doc_view_configure.png" alt="Configure document view" width="80%">
 </p>
@@ -243,38 +244,36 @@ You will be navigated to the **Custom Catalog Extensions** app. This enables you
 <img src="images/generated_view_summary.png" alt="Generated view summary" width="80%">
 </p>
 
-5. Now we will apply some filters and generate a summary for the entire report.
-Switch back to the *Supplier* view from the dropdown. Click on the *Add filter* icon on top.
+5. Now we will apply some filters and generate a summary for the entire report. Switch back to the **Supplier** view from the dropdown and click on the "Expand Header" icon on the top.
+<p align="center">
+<img src="images/switch_to_supplier_view.png" alt="Generating view summary" width="80%">
+</p>
+
+6. Click on the **Add filter** icon.
 <p align="center">
 <img src="images/add_supplier_filter.png" alt="Add filter" width="80%">
 </p>
 
-6. Search for field 'Supplier' and select **Supplier**.
+7. Search for field 'Supplier' and select **Supplier**.
 <p align="center">
 <img src="images/filter_by_supplier.png" alt="Add filter supplier" width="80%">
 </p>
 
-7. Select the first 3 suppliers from the value help list. Click on OK.
+8. Select the first 3 suppliers from the value help list. Click on OK.
 <p align="center">
 <img src="images/suppliers_selected.png" alt="Add filter supplier" width="80%">
 </p>
 
-8. On the side panel, select the first icon with tooltip *Report summary*. Click on **Summarize Report**.
+9. On the side panel, select the first icon with tooltip *Report summary*. Click on **Summarize Report**.
 Alternatively, you can select the **Summarize Report** option under the *Summarize* dropdown on top.  
 <p align="center">
 <img src="images/tab_report_summary.png" alt="Switch to Report summary" width="80%">
 </p>
 
-9. During this execution, the AI feature will consider both the *Supplier* and *Document* views, along with the context of the filtered suppliers to generate a fresh summary.
+10. During this execution, the AI feature will consider both the *Supplier* and *Document* views, along with the context of the filtered suppliers to generate a fresh summary.
 <p align="center">
 <img src="images/generated_report_summary.png" alt="Switch to Report summary" width="80%">
 </p>
-
-10. Finally you can use the share button which opens your email client and keeps the summary copied into your clipboard, so you can directly paste it in the email template for quick sharing.
-<p align="center">
-<img src="images/share_summary.png" alt="Share summary in email" width="80%">
-</p>
-
 
 
 ## Summary
