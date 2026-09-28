@@ -270,7 +270,7 @@ Alternatively, you can select the **Summarize Report** option under the *Summari
 <img src="images/tab_report_summary.png" alt="Switch to Report summary" width="80%">
 </p>
 
-10. During this execution, the AI feature will consider both the *Supplier* and *Document* views, along with the context of the filtered suppliers to generate a fresh summary.
+10. During this execution, the AI feature will consider both the *Supplier* and *Document* views, along with the context of the filtered suppliers to generate an updated summary.
 <p align="center">
 <img src="images/generated_report_summary.png" alt="Switch to Report summary" width="80%">
 </p>
