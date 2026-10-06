@@ -98,7 +98,7 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 *Participant Action*
 
-1. First download the images from directory [Excercise_Images](https://github.com/SAP-samples/teched2026-TM262/tree/main/exercises/ex2/Excercise_Images) which you can use to upload
+1. First download the images from directory [Exercise_Images](https://github.com/SAP-samples/teched2026-TM262/tree/main/exercises/ex2/Exercise_Images) which you can use as Product Thumbnails
 2. Select **EDIT** button on the top right corner
    <img width="2540" height="386" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit1.png" />
 3. In the Attachments section, ensure that **Document Type** is - **Office-Documents (YBO)** (*by default selected*).
