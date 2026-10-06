@@ -98,15 +98,16 @@ Thumbnails are displayed based on a priority ranking defined per document type a
 
 *Participant Action*
 
-1. Select **EDIT** button on the top right corner
+1. First download the images from directoty [Excercise_Images](https://github.com/SAP-samples/teched2026-TM262/tree/main/exercises/ex2/Excercise_Images) which you can use to upload
+2. Select **EDIT** button on the top right corner
    <img width="2540" height="386" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit1.png" />
-2. In the Attachments section, ensure that **Document Type** is - **Office-Documents (YBO)** (*by default selected*).
+3. In the Attachments section, ensure that **Document Type** is - **Office-Documents (YBO)** (*by default selected*).
    <img width="2513" height="385" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit2.png" />
-3. Choose **Upload** and browse to a local image file (JPEG, PNG or JPG)
+4. Choose **Upload** and browse to a local image file (JPEG, PNG or JPG) 
    <img width="2492" height="757" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit3.png" />
-4. Confirm the upload completes successfully.
+5. Confirm the upload completes successfully.
    <img width="2506" height="473" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit4.png" />
-5. Save the Product.
+6. Save the Product.
    <img width="2448" height="559" alt="image" src="https://github.com/SAP-samples/teched2026-TM262/blob/main/exercises/ex2/images/PM_edit5.png" />
    
 ><small>Tip: Try uploading more than one image with different document types to test the priority logic in the next step.</small>
