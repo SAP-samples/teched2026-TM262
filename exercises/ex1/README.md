@@ -42,7 +42,7 @@ The goal of this exercise is to:
 
 
    You will be asked to:
-   - Select a **Business Partner Category** (Person or Organization)
+   
    - Select an **existing document** to upload
 
 ---
