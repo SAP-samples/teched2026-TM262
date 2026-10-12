@@ -72,7 +72,6 @@ The goal of this exercise is to:
 
 8. Once the extraction is complete, a **Success** message appears in the dialog. It contains a hyperlink: _"Review data extraction results in a new tab"_.
 
-   > You will also notice an optional checkbox: **Add the file as an attachment to the Business Partner**. You can enable this now or later for compliance and traceability purposes.
 
 <p align="center">
 <img src="images/05_extraction_success.jpg" alt="Extraction success with review link" width="80%">
