@@ -169,9 +169,8 @@ When the AI extracts data, it may not always assign values to the correct fields
 
 18. Close the extraction review browser tab and return to the original **Create from Document** dialog.
 
-19. The dialog now shows a **Success** message confirming that the extraction is complete.
+19. **Optionally**, You can enable the checkbox **Add the file as an attachment to the Business Partner** if you want the source document to be stored alongside the Business Partner record for compliance or audit purposes.
 
-    Optionally, enable the checkbox **Add the file as an attachment to the Business Partner** if you want the source document to be stored alongside the Business Partner record for compliance or audit purposes.
 
 <p align="center">
 <img src="images/13_extraction_complete_attachment.jpg" alt="Extraction complete with optional attachment checkbox" width="80%">
