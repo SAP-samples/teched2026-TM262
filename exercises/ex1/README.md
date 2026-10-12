@@ -8,6 +8,7 @@ Starting from the **Manage Business Partner Master Data** application, you will 
 This exercise demonstrates how intelligent document processing can reduce manual effort and improve data quality in master data management.
 
 The goal of this exercise is to:
+- [Prerequisites](#prerequisites)
 - [Launch the Manage Business Partner application and initiate document-based creation](#launch-manage-business-partner-and-initiate-document-based-creation)
 - [Select a source document and extract data](#select-a-source-document-and-extract-data)
 - [Review and validate the AI extraction results](#review-and-validate-the-ai-extraction-results)
@@ -18,6 +19,16 @@ The goal of this exercise is to:
 
 > **Access SAP S/4HANA Public Cloud Edition with the system URL and user credentials provided to you.**  
 > [Systems and Logon Information](../../README.md#system-and-logon-information)
+
+---
+
+## Prerequisites
+
+Before starting this exercise, download the sample document you will use for the AI-assisted extraction:
+
+1. Navigate to the **ex1/images** folder in this repository.
+2. Download the file **Sample_Work_Quotation.pdf**.
+3. Save it to a location on your local machine that you can easily access during the exercise.
 
 ---
 
