@@ -1,7 +1,7 @@
 [TechEd2026 - TM262 - Experience Core Foundational Capabilities of SAP Cloud ERP](../../../../#exercises)
 # Exercise: AI-Assisted Creation of Business Partner
 
-In this hands-on exercise, you will experience how SAP Document AI can accelerate and simplify the creation of a Business Partner in SAP S/4HANA Cloud. Instead of manually entering data, you will upload a source document — such as a vendor quotation — and let the AI extract relevant fields automatically.
+In this hands-on exercise, you will experience how SAP Document AI can accelerate and simplify the creation of a Business Partner in SAP S/4HANA Cloud. Instead of manually entering data, you will upload a source document — such as a supplier quotation — and let the AI extract relevant fields automatically.
 
 Starting from the **Manage Business Partner Master Data** application, you will initiate a document-based creation flow, upload a sample document, and review the AI-extracted data. You will learn how to validate extraction results, correct field assignments using the Annotation Panel, and confirm the data before creating the Business Partner draft.
 
@@ -11,7 +11,7 @@ The goal of this exercise is to:
 - [Launch the Manage Business Partner application and initiate document-based creation](#launch-manage-business-partner-and-initiate-document-based-creation)
 - [Select a source document and extract data](#select-a-source-document-and-extract-data)
 - [Review and validate the AI extraction results](#review-and-validate-the-ai-extraction-results)
-- [Correct field assignments using the Annotation Panel](#correct-field-assignments-using-the-annotation-panel)
+- [Correct field assignments](#correct-field-assignments-using-the-annotation-panel)
 - [Review Bank Accounts and Tax Data](#review-bank-accounts-and-tax-data)
 - [Save, confirm, and create the Business Partner draft](#save-confirm-and-create-the-business-partner-draft)
 - [Verify the pre-filled Business Partner fields](#verify-the-pre-filled-business-partner-fields)
