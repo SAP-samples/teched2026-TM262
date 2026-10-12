@@ -11,7 +11,7 @@ The goal of this exercise is to:
 - [Launch the Manage Business Partner application and initiate document-based creation](#launch-manage-business-partner-and-initiate-document-based-creation)
 - [Select a source document and extract data](#select-a-source-document-and-extract-data)
 - [Review and validate the AI extraction results](#review-and-validate-the-ai-extraction-results)
-- [Correct Field Data](#correct-field-assignments-using-the-annotation-panel)
+- [Correct Field Data](#correct-field-data)
 - [Review Bank Accounts and Tax Data](#review-bank-accounts-and-tax-data)
 - [Save, confirm, and create the Business Partner draft](#save-confirm-and-create-the-business-partner-draft)
 - [Verify the pre-filled Business Partner fields](#verify-the-pre-filled-business-partner-fields)
