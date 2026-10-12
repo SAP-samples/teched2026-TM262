@@ -197,6 +197,6 @@ When the AI extracts data, it may not always assign values to the correct fields
 
 Congratulations! You have successfully completed the AI-assisted Business Partner creation exercise.
 
-In this exercise, you experienced how SAP Document AI integrates with the **Manage Business Partner** application in SAP S/4HANA Cloud to streamline master data entry. By uploading a vendor quotation document, the system automatically extracted over 20 fields — including general data, address, communication details, bank account information, and tax data — using AI-powered document processing.
+In this exercise, you experienced how SAP Document AI integrates with the **Manage Business Partner Master Data** application in SAP S/4HANA Cloud to streamline master data entry. By uploading a vendor quotation document, the system automatically extracted over 20 fields — including general data, address, communication details, bank account information, and tax data — using AI-powered document processing.
 
 Continue to - [Exercise 2: Thumbnail support for product attachments in the Product Master](../ex2/README.md)
