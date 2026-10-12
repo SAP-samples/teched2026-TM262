@@ -96,7 +96,7 @@ Before starting this exercise, download the sample document you will use for the
     - **Confidence Score**: 64.33% (this will vary based on document quality)
 
 <p align="center">
-<img src="images/06_extraction_review_page.jpg" alt="Document extraction review page" width="80%">
+<img src="images/05_1_extraction_review_page.jpg" alt="Document extraction review page" width="80%">
 </p>
 
 11. The page is split into two panels:
