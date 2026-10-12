@@ -12,7 +12,7 @@ The goal of this exercise is to:
 - [Select a source document and extract data](#select-a-source-document-and-extract-data)
 - [Review and validate the AI extraction results](#review-and-validate-the-ai-extraction-results)
 - [Correct Field Data](#correct-field-data)
-- [Review Bank Accounts and Tax Data](#review-bank-accounts-and-tax-data)
+- [Review Bank Accounts Data](#review-bank-accounts-data)
 - [Save, confirm, and create the Business Partner draft](#save-confirm-and-create-the-business-partner-draft)
 - [Verify the pre-filled Business Partner fields](#verify-the-pre-filled-business-partner-fields)
 
@@ -132,7 +132,7 @@ When the AI extracts data, it may not always assign values to the correct fields
 
 ---
 
-## Review Bank Accounts and Tax Data
+## Review Bank Accounts Data
 
 15. Click on the **Bank Accounts** tab in the right panel.
 
@@ -151,52 +151,45 @@ When the AI extracts data, it may not always assign values to the correct fields
 
    > Verify each field against the source document in the left panel. The IBAN shows a medium-confidence (orange) indicator — if necessary, you can click on the field to correct the value.
 
-16. Click on the **Tax Data** tab to review any tax-related information extracted.
-
-    > In some cases, the AI may incorrectly identify a value as a tax number when it is not. If any entries in the Tax Data table are incorrect, select the corresponding row and delete it using the row-level actions.
-
-<p align="center">
-<img src="images/12_tax_data_tab.jpg" alt="Tax Data tab" width="80%">
-</p>
 
 ---
 
 ## Save, Confirm, and Create the Business Partner Draft
 
-17. Once you have reviewed and corrected all extracted fields, click **Save and Confirm** in the footer toolbar.
+16. Once you have reviewed and corrected all extracted fields, click **Save and Confirm** in the footer toolbar.
 
     > This action saves the document extraction record and marks it as confirmed. The status will change from _Review Needed_ to _Confirmed_.
 
-18. Close the extraction review browser tab and return to the original **Create from Document** dialog.
+17. Close the extraction review browser tab and return to the original **Create from Document** dialog.
 
-19. **Optionally**, You can enable the checkbox **Add the file as an attachment to the Business Partner** if you want the source document to be stored alongside the Business Partner record for compliance or audit purposes.
+18. **Optionally**, You can enable the checkbox **Add the file as an attachment to the Business Partner** if you want the source document to be stored alongside the Business Partner record for compliance or audit purposes.
 
 
 <p align="center">
 <img src="images/13_extraction_complete_attachment.jpg" alt="Extraction complete with optional attachment checkbox" width="80%">
 </p>
 
-20. Under **Select a business partner category**, confirm that **Person** or **Organization** is selected (this is a mandatory field).
+19. Under **Select a business partner category**, confirm that **Person** or **Organization** is selected (this is a mandatory field).
 
-21. Click **Create** to proceed.
+20. Click **Create** to proceed.
 
 ---
 
 ## Verify the Pre-filled Business Partner Fields
 
-22. The system navigates to the **New Business Partner** object page in edit/draft mode. All fields extracted and confirmed from the document have been pre-populated.
+21. The system navigates to the **New Business Partner** object page in edit/draft mode. All fields extracted and confirmed from the document have been pre-populated.
 <p align="center">
 <img src="images/14_bp_draft_basic_data.jpg" alt="New Business Partner Basic Data tab with pre-filled name" width="80%">
 </p>
 
 
-23. If you enabled the attachment option in step 19, click on the **Attachments** tab and confirm that the source document (e.g., **Sample_Work_Quotation.pdf**) is listed as an attachment.
+22. If you enabled the attachment option in step 18, click on the **Attachments** tab and confirm that the source document (e.g., **Sample_Work_Quotation.pdf**) is listed as an attachment.
 
 <p align="center">
 <img src="images/17_bp_draft_attachments.jpg" alt="Attachments tab showing the source document" width="80%">
 </p>
 
-24. Review any remaining fields. You may enrich the Business Partner with additional data if required.
+23. Review any remaining fields. You may enrich the Business Partner with additional data if required.
 
 
 ---
