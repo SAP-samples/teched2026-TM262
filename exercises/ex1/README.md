@@ -57,7 +57,7 @@ The goal of this exercise is to:
 <img src="images/03_file_browser.jpg" alt="File browser to select source document" width="80%">
 </p>
 
-6. Navigate to your local documents folder and select the sample vendor quotation file **Sample_Work_Quotation.pdf**. Click **Open**.
+6. Navigate to your local documents folder and select the sample supplier quotation file **Sample_Work_Quotation.pdf**. Click **Open**.
 
 7. Once the file is selected and shown in the document field, click **Extract Data**.
 
