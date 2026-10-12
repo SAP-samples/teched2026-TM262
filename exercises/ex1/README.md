@@ -123,7 +123,7 @@ When the AI extracts data, it may not always assign values to the correct fields
 13. Once in edit mode, scroll to the **General Data** section in the right panel. Click into the **Sender First Name** field and enter **Musterfirma**. Then click into the **Sender Last Name** field and enter **GmbH**.
 
 <p align="center">
-<img src="images/13_edit_sender_name_fields.png" alt="Sender First Name and Sender Last Name fields filled in General Data" width="80%">
+<img src="images/09_edit_sender_name_fields.png" alt="Sender First Name and Sender Last Name fields filled in General Data" width="80%">
 </p>
 
 14. Verify that the fields have been correctly entered:
@@ -146,7 +146,7 @@ When the AI extracts data, it may not always assign values to the correct fields
     | BIC | MALADE |
 
 <p align="center">
-<img src="images/11_bank_accounts_tab.jpg" alt="Bank Accounts tab with extracted data" width="80%">
+<img src="images/08_bank_accounts_tab.jpg" alt="Bank Accounts tab with extracted data" width="80%">
 </p>
 
    > Verify each field against the source document in the left panel. The IBAN shows a medium-confidence (orange) indicator — if necessary, you can click on the field to correct the value.
@@ -166,7 +166,7 @@ When the AI extracts data, it may not always assign values to the correct fields
 
 
 <p align="center">
-<img src="images/13_extraction_complete_attachment.jpg" alt="Extraction complete with optional attachment checkbox" width="80%">
+<img src="images/10_extraction_complete_attachment.jpg" alt="Extraction complete with optional attachment checkbox" width="80%">
 </p>
 
 19. Under **Select a business partner category**, confirm that **Person** or **Organization** is selected (this is a mandatory field).
@@ -179,14 +179,14 @@ When the AI extracts data, it may not always assign values to the correct fields
 
 21. The system navigates to the **New Business Partner** object page in edit/draft mode. All fields extracted and confirmed from the document have been pre-populated.
 <p align="center">
-<img src="images/14_bp_draft_basic_data.jpg" alt="New Business Partner Basic Data tab with pre-filled name" width="80%">
+<img src="images/11_bp_draft_basic_data.jpg" alt="New Business Partner Basic Data tab with pre-filled name" width="80%">
 </p>
 
 
 22. If you enabled the attachment option in step 18, click on the **Attachments** tab and confirm that the source document (e.g., **Sample_Work_Quotation.pdf**) is listed as an attachment.
 
 <p align="center">
-<img src="images/17_bp_draft_attachments.jpg" alt="Attachments tab showing the source document" width="80%">
+<img src="images/12_bp_draft_attachments.jpg" alt="Attachments tab showing the source document" width="80%">
 </p>
 
 23. Review any remaining fields. You may enrich the Business Partner with additional data if required.
